@@ -28,4 +28,31 @@ Jedną z inicjatyw Fundacji Gajusz jest interwencyjny ośrodek preadopcyjny „T
 
 Projekt ten jest dla mnie krokiem w kierunku rozwoju umiejętności analitycznych oraz tworzenia angażujących wizualizacji danych, które mają realny wpływ na społeczeństwo.
 
+### Grafiki promocyjne
 
+<div style="display: flex; justify-content: space-around; align-items: center; gap: 20px;">
+
+  <img src="assets/3a Porzucenie noworodków w 2023 - ujęcie godzinowe.png" alt="Grafika 1" style="width: 30%; border: 1px solid #ccc; border-radius: 8px;">
+  <img src="assets/3b Porzucenie noworodków w 2023 - łączna wartość.png" alt="Grafika 2" style="width: 30%; border: 1px solid #ccc; border-radius: 8px;">
+  <img src="assets/3h Porzucenie noworodków w 2023 - na 5000 dzieci.png" alt="Grafika 3" style="width: 30%; border: 1px solid #ccc; border-radius: 8px;">
+
+</div>
+</br> 
+
+[*Zobacz więcej ➔*](https://github.com/ElaWajdzik/Ongoing_Projects/tree/main/%23BI_NGO%20-%20Noworodki%20opuszczone%20przez%20rodzic%C3%B3w/assets)
+
+### Analityczny opis
+
+<img src="assets/1 Porzucenie noworodków w Polsce na przestrzeni lat.png" height="800" style="display: block; margin: 0 auto; border-radius: 8px;">
+</br>
+<img src="assets/2 Porzucenie noworodków w Polsce w podziale na województwa.png" height="1000" style="display: block; margin: 0 auto; border-radius: 8px;">
+
+<br/>
+
+*** 
+
+ # <p align="center"> Dziękuję za Twoją uwagę! 🫶️
+
+**Dziękuję za przeczytanie.** Jeśli masz jakieś uwagi dotyczące mojej pracy, daj mi znać. Mój adres e-mail to ela.wajdzik@gmail.com.
+
+***
