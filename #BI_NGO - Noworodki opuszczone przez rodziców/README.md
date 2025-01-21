@@ -24,7 +24,7 @@ Jedną z inicjatyw Fundacji Gajusz jest interwencyjny ośrodek preadopcyjny „T
 
 ## Wyniki i wyróżnienia
 [Moje opracowanie](https://www.linkedin.com/posts/ela-wajdzik_biabrngo-biabrngo-activity-7272901767615389696-d_pY) zyskało uznanie i 
-[zostało wyróżnione w kategorii „Storytelling dla zwykłego Kowalskiego](https://www.linkedin.com/posts/klaudia-stano_biabrngo-activity-7284476266882195456-sH3E)” w projekcie #BI_NGO. Dodatkowo Fundacja Gajusz planuje wykorzystać stworzone przeze mnie materiały w swojej dalszej działalności promocyjnej, aby zwrócić uwagę społeczeństwa i potencjalnych darczyńców na ten ważny problem społeczny.
+[zostało wyróżnione w kategorii „Storytelling dla zwykłego Kowalskiego”](https://www.linkedin.com/posts/klaudia-stano_biabrngo-activity-7284476266882195456-sH3E) w projekcie #BI_NGO. Dodatkowo Fundacja Gajusz planuje wykorzystać stworzone przeze mnie materiały w swojej dalszej działalności promocyjnej, aby zwrócić uwagę społeczeństwa i potencjalnych darczyńców na ten ważny problem społeczny.
 
 Projekt ten jest dla mnie krokiem w kierunku rozwoju umiejętności analitycznych oraz tworzenia angażujących wizualizacji danych, które mają realny wpływ na społeczeństwo.
 
