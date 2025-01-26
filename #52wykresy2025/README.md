@@ -5,3 +5,7 @@ W tym roku chciałabym przygotować 52 wizualizacje, które zobrazują różnoro
 Podstawowym celem tego działania jest rozwój w obszarze eksplanacyjnych wizualizacji oraz dowiedzenie się więcej o otaczającym mnie świecie 🌎.
 
 ***
+<br>
+<br>
+
+<img src="assets/01 - Miasta - powierzchnia top 6 miast.png" height="500" style="display: block; margin: 0 auto; border-radius: 8px;">
