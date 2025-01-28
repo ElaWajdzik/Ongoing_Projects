@@ -11,7 +11,7 @@ Spis treści:
 <br> 
 
 ***
-***
+
 
 
 
@@ -25,9 +25,9 @@ Kluczowe pytania na które szukałam odpowiedzi:
 * Kiedy udało się odbudować przedwojenną liczbę mieszkańców? 
 * Jak przebiegały zmiany powierzchni tych miast?
 * W jaki sposób zmieniała się gęstość zaludnienia od czasów przedwojennych?
-
-<hr style="width: 50%; margin: 0 auto;"> 
+ 
 <br>
+
 
 ### Czy wiesz, że...
  **Tylko co trzecie osoba mieszkająca w Warszawie przed wojną przetrwała II wojnę światową**? Odbudowa populacji Warszawy do stanu sprzed wojny trwała **31 lat**. Dziś Warszawę zamieszkuję 1,5 razy więcej osób niż przed wojną, przy jednoczesnym wzroście powierzchni miasta 3,6-krotnie. 
@@ -53,15 +53,19 @@ Wszystkie wizualizacje zostały przygotowane w programie **Datawrapper**, dodatk
 
 <br>
 
-<a href="https://www.datawrapper.de/_/gdikt/">
-    <img src="assets/01 - Miasta - zmiana liczby ludności.png" height="500" style="display: block; margin: 0 auto; border-radius: 8px;">
-</a>
+<p align="center">
+    <a href="https://www.datawrapper.de/_/gdikt/">
+        <img src="assets/01 - Miasta - zmiana liczby ludności.png" height="500" style="display: block; margin: 0 auto; border-radius: 8px;">
+    </a>
+</p>
 
 <br>
 
-<a href="https://www.datawrapper.de/_/AXmCG/">
-    <img src="assets/02 - Miasta - indeks zmiany liczby ludności.png" height="500" style="display: block; margin: 0 auto; border-radius: 8px;">
-</a>
+<p align="center">
+    <a href="https://www.datawrapper.de/_/AXmCG/">
+        <img src="assets/02 - Miasta - indeks zmiany liczby ludności.png" height="500" style="display: block; margin: 0 auto; border-radius: 8px;">
+    </a>
+</p>
 
 <br>
 
@@ -73,17 +77,17 @@ Powyższy wykres prezentuje procentową zmianę populacji w porównaniu do stanu
 
 <br> 
 
-<a href="https://www.datawrapper.de/_/JQpWN/">
-    <img src="assets/03 - Miasta - powierzchnia top 6 miast.png" height="450" style="display: block; margin: 0 auto; border-radius: 8px;">
-</a>
+<p align="center">
+    <a href="https://www.datawrapper.de/_/JQpWN/">
+        <img src="assets/03 - Miasta - powierzchnia top 6 miast.png" height="450" style="display: block; margin: 0 auto; border-radius: 8px;">
+    </a>
+</p>
 
 <br> 
 
-<img src="assets/04 - Miasta - gęstość zaludnienia.png" height="300" style="display: block; margin: 0 auto; border-radius: 8px;">
-
-
-
-<br>
+<p align="center">
+    <img src="assets/04 - Miasta - gęstość zaludnienia.png" height="300" style="display: block; margin: 0 auto; border-radius: 8px;">
+</p>
 <br> 
 
 ***
