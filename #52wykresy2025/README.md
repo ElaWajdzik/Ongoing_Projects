@@ -55,15 +55,17 @@ Wszystkie wizualizacje zostały przygotowane w programie **Datawrapper**, dodatk
 
 <p align="center">
     <a href="https://www.datawrapper.de/_/gdikt/">
-        <img src="assets/01 - Miasta - zmiana liczby ludności.png" height="500" style="display: block; margin: 0 auto; border-radius: 8px;">
+        <img src="assets/01 - Miasta - zmiana liczby ludności.png" width="600">
     </a>
 </p>
+
+
 
 <br>
 
 <p align="center">
     <a href="https://www.datawrapper.de/_/AXmCG/">
-        <img src="assets/02 - Miasta - indeks zmiany liczby ludności.png" height="500" style="display: block; margin: 0 auto; border-radius: 8px;">
+        <img src="assets/02 - Miasta - indeks zmiany liczby ludności.png" width="600">
     </a>
 </p>
 
@@ -79,14 +81,14 @@ Powyższy wykres prezentuje procentową zmianę populacji w porównaniu do stanu
 
 <p align="center">
     <a href="https://www.datawrapper.de/_/JQpWN/">
-        <img src="assets/03 - Miasta - powierzchnia top 6 miast.png" height="450" style="display: block; margin: 0 auto; border-radius: 8px;">
+        <img src="assets/03 - Miasta - powierzchnia top 6 miast.png" width="600">
     </a>
 </p>
 
 <br> 
 
 <p align="center">
-    <img src="assets/04 - Miasta - gęstość zaludnienia.png" height="300" style="display: block; margin: 0 auto; border-radius: 8px;">
+    <img src="assets/04 - Miasta - gęstość zaludnienia.png" width="600">
 </p>
 <br> 
 
