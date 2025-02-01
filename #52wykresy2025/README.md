@@ -94,3 +94,12 @@ Powyższy wykres prezentuje procentową zmianę populacji w porównaniu do stanu
 
 ***
 
+<br/>
+
+*** 
+
+ # <p align="center"> Dziękuję za Twoją uwagę! 🫶️
+
+**Dziękuję za przeczytanie.** Jeśli masz jakieś uwagi dotyczące mojej pracy, daj mi znać. Mój adres e-mail to ela.wajdzik@gmail.com.
+
+***

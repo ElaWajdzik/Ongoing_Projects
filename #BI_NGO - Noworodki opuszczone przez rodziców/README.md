@@ -13,7 +13,7 @@ W pracy korzystałam z Power BI do analizy danych i Excel do wstępnego przygoto
 ## Dane źródłowe
 Analiza oparta jest na danych tabelarycznych:
 
-* [Żywe urodzenia w  w latach 2007 - 2023](https://github.com/ElaWajdzik/Ongoing_Projects/blob/main/%23BI_NGO%20-%20Noworodki%20opuszczone%20przez%20rodzic%C3%B3w/dane/Urodzenia%20%C5%BCywe%20w%20Polsce%202007-2023.xlsx), źródło: Główny Urząd Statystyczny
+* [Żywe urodzenia w Polsce w latach 2007 - 2023](https://github.com/ElaWajdzik/Ongoing_Projects/blob/main/%23BI_NGO%20-%20Noworodki%20opuszczone%20przez%20rodzic%C3%B3w/dane/Urodzenia%20%C5%BCywe%20w%20Polsce%202007-2023.xlsx), źródło: Główny Urząd Statystyczny
 * [Noworodki pozostawione w szpitalu w Polsce w latach 2007-2023](https://github.com/ElaWajdzik/Ongoing_Projects/blob/main/%23BI_NGO%20-%20Noworodki%20opuszczone%20przez%20rodzic%C3%B3w/dane/Urodzenia%20%C5%BCywe%20w%20Polsce%202007-2023.xlsx), źródło: Ministerstwo Zdrowia
 
 
