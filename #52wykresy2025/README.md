@@ -243,6 +243,59 @@ Dodatkowo, porównując dane rok do roku, **nie widać ani istotnych trendów, a
     </a>
 </p>
 
+Bardzo ważne jest również podkreślenie istotnych różnic między kobietami a mężczyznami. Każdego roku samobójstwo popełnia pięciokrotnie więcej mężczyzn niż kobiet. Natomiast, co warte zauważenia, od dekady rośnie odsetek prób samobójczych podejmowanych przez kobiety – jeszcze w 2015 roku wynosił on 20%, a w 2024 roku wzrósł do 37%.
+
+Niestety, statystyki publikowane przez policję nie zawierają informacji łączących wiek i płeć, dlatego nie możemy jednoznacznie określić, czy istnieje różnica w wieku, w którym problem jest największy.
+
+
+<p align="center">
+    <a href="https://public.flourish.studio/visualisation/21669085/">
+        <img src="assets/Samobójstwa - podział na płeć.png" width="600">
+    </a>
+</p>
+
+Odnosząc dane do populacji w poszczególnych województwach, różnice między płciami stają się jeszcze bardziej wyraźne. Analizując dane w podziale na województwa, możemy zauważyć, jak znacząco różni się wartość współczynnika samobójstw między kobietami a mężczyznami. Maksymalna wartość współczynnika dla kobiet jest aż dwukrotnie niższa niż minimalna wartość dla mężczyzn.
+
+W 2024 roku ogólnopolski współczynnik samobójstw wśród mężczyzn był niemal sześciokrotnie wyższy niż wśród kobiet.
+
+Najwyższy współczynnik samobójstw wśród mężczyzn odnotowano w województwie zachodniopomorskim, natomiast wśród kobiet – w województwie warmińsko-mazurskim. Najmniejszą skalę problemu w obu grupach płciowych zaobserwowano w województwie mazowieckim.
+
+<p align="center">
+    <img src="assets/Samobójstwa - porównanie wsp. kobiety i mężczyźni.png" width="600">
+</p>
+
+
+Miejsce - tak
+
+sposób - tak
+
+dzień tygodnia - tak 
+
+powód - 59% nie ustalone a 22,4 to choroby psychiczne
+
+stan cywilny - głupie
+
+wykształcenie - 73% brak danych
+
+informacja o pracy nauce - 52% brak danych
+
+źródło utrzymania - 43% brak danych, a 24% praca
+
+stan świadomości - 82% brak danych, a 10% pod wpływem alkoholu
+
+informacje dotyczące stanu zdrowia - 54% brak danych
+
+kontakt z instytucjami
+
+Paleta kolorów 
+https://coolors.co/ac1e1e-3e4e50-eaeaea-449dd1-bc7c9c
+
+#AC1E1E
+#3E4E50
+
+#449DD1
+#BC7C9C 
+
 
 <!--
 Gdzie w Polsce sytuacja jest najtrudniejsza
