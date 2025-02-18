@@ -6,7 +6,7 @@ Podstawowym celem tego działania jest rozwój w obszarze eksplanacyjnych wizual
 
 Spis treści:
 1. [Populacja i powierzchnia największych miast Polski w latach 1939 a 2023.](#wykres-1-4-zmiana-populacji-i-powierzchni-sześciu-największych-miast-polski-po-ii-wojnie-światowej)
-2. 
+2. [Samobójstwa w Polsce – jak zmieniała się sytuacja w latach 1999–2024?](#wykres-5-10-samobójstwa-w-polsce--jak-zmieniała-się-sytuacja-w-latach-19992024)
 
 <br> 
 
@@ -94,27 +94,26 @@ Powyższy wykres prezentuje procentową zmianę populacji w porównaniu do stanu
 
 ***
 
-## Wykres 5-x: tytuł
+## Wykres 5-10: Samobójstwa w Polsce – jak zmieniała się sytuacja w latach 1999–2024?
 
 Jak wynika z [raportu WHO](https://www.who.int/news-room/fact-sheets/detail/suicide), każdego roku na świecie w wyniku samobójstwa życie traci ponad 720 tysięcy osób. Oznacza to, że **co 44 sekundy ktoś odchodzi z tego świata**. Problem samobójstw dotyka różnych grup społecznych, jednak szczególnie niepokojący jest wzrost wskaźników wśród młodych dorosłych. W grupie wiekowej 15–29 lat samobójstwo jest trzecią przyczyną śmiertelności (dane z 2021 roku). Każda próba samobójcza to tragedia, która dotyka nie tylko osoby podejmującej ten krok, ale również jej rodzinę i całą społeczność.
 
 Według WHO, **główne przyczyny** skłaniające do odebrania sobie życia to:
 
-* Problemy związane ze zdrowiem psychicznym,
-* Wysoki poziom stresu życiowego,
-* Utrudniony dostęp do opieki psychiatrycznej,
+* Problemy związane ze **zdrowiem psychicznym**,
+* Wysoki **poziom stresu** życiowego,
+* Utrudniony dostęp do **opieki psychiatrycznej**,
 * Czynniki kulturowe i społeczne.
 
 Obecnie WHO prowadzi globalny program na rzecz zdrowia psychicznego, którego celem jest zmniejszenie liczby samobójstw o 10% do roku 2030.
 
 W Polsce, w sytuacjach kryzysowych, osoby potrzebujące wsparcia mogą skorzystać z następujących miejsc pomocy:
-* Telefon zaufania dla Dzieci i Młodzieży: [116 111](https://116111.pl/)
-* Centrum wsparcia dla Osób Dorosłych w Kryzysie Psychicznym: [800 70 2222](https://centrumwsparcia.pl/)
+* **Telefon zaufania dla Dzieci i Młodzieży**: [116 111](https://116111.pl/)
+* **Centrum wsparcia dla Osób Dorosłych w Kryzysie Psychicznym**: [800 70 2222](https://centrumwsparcia.pl/)
 
 <br>
-<br>
 
-Kluczowe pytania, na które szukałam odpowiedzi:
+### Kluczowe pytania, na które szukałam odpowiedzi:
 
 * Jaka wygląda aktualna sytuacja w Polsce?
 * Kogo najczęściej dotyka ten problem (grupa wiekowa, płeć, województwo)?
@@ -128,29 +127,45 @@ Kluczowe pytania, na które szukałam odpowiedzi:
     <img src="assets/05 - Samobójstwa - grafika.png" width="600">
 </p>
 
+**W 2024 roku liczba zgonów w wyniku prób samobójczych osiągnęła najniższy poziom od 11 lat**. W porównaniu do poprzedniego roku odnotowano **7,4% spadek liczby samobójstw oraz 1% spadek liczby prób samobójczych**. Miejmy nadzieję, że to początek pozytywnego trendu.
 
-W 2024 roku zmarło w wyniku prób samobójczych najmniej osób od 11 lat.
+**Mężczyźni są szczególnie zagrożeni** – giną w wyniku samobójstw pięciokrotnie częściej niż kobiety. 
 
-**Najwięcej prób samobójczych popełniają młodzi dorośli** (grupa wiekowa 13-18 i 19-24), naszczęście ich skuteczność jest niska. Problem jest jdnak najbardziej powszechny w województwie pomorskim i łódzkim, w obu regionach sytuacja rok do roku ulega poprawie jednak nadal skala problemu jest bardzo duża. 
+**Najwięcej prób samobójczych podejmują młodzi dorośli** (13–18 oraz 19–24 lata), jednak ich skuteczność jest stosunkowo niska. Problem ten jest jednak najbardziej powszechny w **województwie pomorskim i łódzkim**, w obu regionach sytuacja rok do roku ulega poprawie jednak nadal skala problemu jest bardzo duża. 
 
-Aby w pełni oddać skalę problemu na 10 tys. młodych dorosłych :
-* W Polsce dochodzi do 8 prób samobójczych i niespełna 1 jest skuteczna,
-* W województwie pomorskim dochodzi do 17 prób samobójczych z czego 1 jest skuteczna,
-* W województwie łódzkim dochodzi do 13 prób samobójczych z czego 1 jest skuteczna,
+**Najwięcej samobójstw ma miejsce w domu**, ale najwyższy odsetek zakończonych śmiercią prób występuje w garażach, piwnicach, lasach i zabudowaniach gospodarczych.
 
+Najczęstsza metoda? **Powieszenie – odpowiada za 76% wszystkich samobójstw**.
 
-
-
+Najwięcej samobójstw i prób samobójczych ma miejsce w **poniedziałki**.
 
 <br> 
 
----
+
+### Przygotowane wizualizację:
+
+* **grafika ze statystyką** – przedstawia dane z 2024 roku w przystępnej, działającej na wyobraźnię formie, bez wykresów;
+* **wykres liniowy** – ilustruje liczbę prób samobójczych i zgonów od 1999;
+* **mapa ciepła** – pokazuje liczbę prób samobójczych w podziale na rok i grupę wiekową;
+* **wykres słupkowy** – prezentuje wartość współczynnika prób samobójczych i samobójstw w podziale na grupy wiekowe;
+* **mapa Polski** – przedstawia współczynnik prób samobójczych i samobójstw w podziale na województwa;
+* **mapa ciepła** – obrazuje współczynnik prób samobójczych i samobójstw w zależności od województwa i grupy wiekowej;
+* s**kumulowany wykres kolumnowy** – ukazuje procentowy rozkład prób samobójczych i samobójstw według płci;
+* **wykres słupkowy** – przedstawia współczynniki prób samobójczych i samobójstw w podziale na województwa i płeć;
+* **wykres słupkowy** – wizualizuje liczbę prób samobójczych i zgonów w podziale na miejsce i metodę.
+
+Wizualizacje zostały przygotowane w **Datawrapper** i **Flourish**, a w niektórych przypadkach w **Canva**, gdzie dostosowano czcionki i kolory. Część wykresów posiada interaktywne wersje – aby je zobaczyć, kliknij w obrazek.
 
 
-W danych ogólnopolskich z 2024 roku obserwujemy przełom – w porównaniu do roku poprzedniego liczba prób samobójczych spadła o 1%, a liczba samobójstw o 7,4%. Choć spadek prób samobójczych jest niewielki, jest to pierwszy taki trend zaobserwowany od 2017 roku, co może sugerować pozytywną tendencję na przyszłość. Co istotne, **liczba osób tracących życie w wyniku samobójstwa w 2024 roku osiągnęła najniższy poziom od dekady**, co stanowi znaczący spadek po ośmiu latach stagnacji, gdy roczna liczba zgonów wynosiła około 5,2 tys.
 
-Warto dodatkowo zauważyć, że w analizowanym okresie policja wprowadziła dwie zmiany w sposobie gromadzenia danych. Może to oznaczać, że obecna wykrywalność samobójstw jest wyższa, a dane historyczne z okresu 1999–2012 mogą być niedoszacowane.
+<br>
 
+
+### Szczegółowe omówienie zagadnienia
+
+W 2024 roku **po raz pierwszy od 2017 roku** odnotowano spadek liczby prób samobójczych o **1%**, a liczby samobójstw o **7,4%** w porównaniu do roku poprzedniego. Choć spadek prób jest niewielki, może on sygnalizować pozytywny trend na przyszłość. Co istotne, **liczba osób tracących życie w wyniku samobójstwa w 2024 roku osiągnęła najniższy poziom od dekady**, co stanowi istotny przełom po ośmiu latach stagnacji, gdy liczba zgonów utrzymywała się na poziomie **około 5,2 tys. rocznie**.
+
+Warto również zaznaczyć, że w analizowanym okresie **Komenda Główna Policji wprowadziła dwie zmiany w sposobie gromadzenia danych**, co może oznaczać lepszą wykrywalność samobójstw. W związku z tym dane historyczne z lat 1999–2012 mogą być niedoszacowane.
 
 <p align="center">
     <a href="https://www.datawrapper.de/_/EYSxJ/">
@@ -158,135 +173,146 @@ Warto dodatkowo zauważyć, że w analizowanym okresie policja wprowadziła dwie
     </a>
 </p>
 
-Obecnie **grupą wysokiego ryzyka są młodzi dorośli** – czyli osoby w grupach wiekowych 13–18 oraz 19–24 lat, gdzie rok do roku obserwujemy wzrost liczby prób samobójczych (w 2024 roku odpowiadały one łacznie za 25% wszystkich prób).
+**Młodzi dorośli (13–18 oraz 19–24 lata) to grupa wysokiego ryzyka**. W 2024 roku odpowiadali oni łącznie za **25% wszystkich prób samobójczych**, a ich liczba rok do roku wzrasta.
 
-Dodatkowo, warto zauważyć, że **osoby urodzone w latach 80** wykazują wysoki poziom prób odebrania sobie życia, a tendencja ta utrzymuje się od 2017 roku aż do dziś (obecnie ta grupa to osoby w wieku 35–44 lata). Co więcej, osoby urodzone w latach 50. charakteryzowały się wysoką skłonnością do prób samobójczych w okresie od 1999 do 2020 roku, co uwidacznia się jako ciemniejsza smuga na mapie ciepła (obecnie to osoby w wiekowu 55–64 lata).
+Dodatkowo, warto zauważyć, że **osoby urodzone w latach 80** wykazują wysoki poziom prób odebrania sobie życia – tendencja ta utrzymuje się od 2017 roku do dziś (obecnie dotyczy grupy 35–44 lat). Z kolei **osoby urodzone w latach 50** charakteryzowały się wysoką skłonnością do prób samobójczych od **1999 do 2020 roku**, co można zauważyć jako **ciemniejszą smugę na mapie ciepła** (obecnie to osoby w wieku 55–64 lat).
+
+<!-- https://www.datawrapper.de/_/gITOm/ -->
 
 <p align="center">
-    <a href="https://www.datawrapper.de/_/C9B52/">
-        <img src="assets/06 - Samobójstwa - próby samobójcze nominalne wartości - mapa ciepła.png" width="600">
+    <img src="assets/06 - Samobójstwa - próby samobójcze nominalne wartości - mapa ciepła.png" width="600">
+</p>
+
+
+Nominalne liczby nie zawsze ukazują pełny obraz sytuacji, dlatego kluczowe jest odniesienie danych do wielkości populacji. **W 2024 roku najwyższy wskaźnik prób samobójczych na 100 tys. osób odnotowano w grupie 13–18 lat**. Natomiast najwyższy **wskaźnik samobójstw** wystąpił w grupie 50–54 lata, choć wszystkie grupy z przedziału 25–49 lat osiągnęły zbliżone wartości.
+
+Warto zauważyć, że **liczba prób samobójczych maleje wraz z wiekiem, ale ich skuteczność rośnie**. Przykładowo w grupie 25–29 lat wskaźnik prób odebrania życia był dwukrotnie wyższy niż w grupie 60–64 lat, jednak wskaźnik zgonów w obu grupach miał zbliżoną wartość.
+
+
+<p align="center">
+    <a href="https://www.datawrapper.de/_/VEBB5/">
+        <img src="assets/07 - Samobójstwa - wskaźniki w grupach wiekowych.png" width="500">
     </a>
 </p>
 
+W skali całego kraju **współczynnik prób samobójczych spadł o 0,8%** w porównaniu do 2023 roku (z 40,2 do 39,9).
 
-Nominalne liczby nie zawsze pokazują pełne spektrum problemu, dlatego warto również odnieść się do wielkości populacji. **W 2024 roku wskaźnik prób samobójczych na 100 tys. osób był najwyższy w grupie wiekowej 13-18**. Wskaźnik samobójstw osiągnął najwyższą wartość w grupach wiekowych 50-54, jednak niewiele niższy współczynnik notują wszystkie grupy z przedziału 25 - 49.
+Patrząc na sytuację województw:
+* **Najtrudniejsza sytuacja występuje w województwach pomorskim i łódzkim**, które wyraźnie wyróżniają się na tle reszty kraju.
+* **Pomorskie – paradoksalnie, mimo trudnej sytuacji, to województwo odnotowało największą poprawę**, ze spadkiem współczynnika o 12 (czyli o 15%). Może to sugerować, że zastosowane lokalnie działania prewencyjne przynoszą pozytywne efekty
+* **Zachodniopomorskie – w 2024 roku odnotowało wzrost wskaźnika prób samobójczych o 9 (15%)**, co przesunęło je z 7. na 3. miejsce pod względem najwyższego współczynnika.
 
-Poniższy wykres pokazuje, jak wraz z wiekiem spada liczba prób samobójczych, przy jednoczesnym wzroście ich skuteczności. Przykładowo, w grupie wiekowej 25-29 wskaźnik prób odebrania życia był dwukrotnie wyższy niż w grupie 60-64, jednak wskaźnik zgonów osiągnął zbliżony poziom.
-
-<p align="center">
-        <img src="assets/07 - Samobójstwa - wskaźniki w grupach wiekowych.png" width="500">
-</p>
-
-W skali całego kraju w 2024 roku **współczynnik prób samobójczych** względem 2023 roku spadł o 0,8% (zmiana z 40,2 na 39,9).
-
-Patrząc z perspektywy województw, **najtrudniejsza sytuacja występuje w województwach pomorskim i łódzkim**, które znacząco wyróżniają się na tle pozostałych regionów. Warto jednak zaznaczyć, że mimo trudnej sytuacji w **województwie pomorskim**, to właśnie tam odnotowano **największą poprawę w skali roku – spadek współczynnika o 12**, co odpowiada 15% zmniejszeniu wartości. Może to sugerować, że zastosowane lokalnie działania prewencyjne przynoszą pozytywne efekty.
-
-Z kolei w **województwie zachodniopomorskim wskaźnik prób samobójczych wzrósł o 9 w porównaniu z ubiegłym rokiem** (15% wzrost wartości). W konsekwencji region ten przesunął się z 7. na 3. miejsce pod względem najwyższego współczynnika, co wymaga szczególnej analizy pod kątem przyczyn tego wzrostu.
-
-**Najniższe wartości współczynnika prób samobójczych odnotowano w województwie mazowieckim**, gdzie wskaźnik jest niemal dwukrotnie niższy od średniej krajowej. Co więcej, względem ubiegłego roku odnotowano tam spadek wartości wskaźnika o 5,6, co odpowiada 21% redukcji. 
+Najniższy poziom prób samobójczych odnotowano w **województwie mazowieckim**, gdzie współczynnik jest niemal **dwukrotnie niższy od średniej krajowej**. Co więcej, między 2023 a 2024 rokiem odnotowano tam spadek wartości o 5,6, co oznacza redukcję o 21%.
 
 
 <p align="center">
     <a href="https://www.datawrapper.de/_/8fjBW/">
-        <img src="assets/08 - Samobójstwa - mapa 1.png" width="400">
+        <img src="assets/08 - Samobójstwa - mapa prób.png" width="400">
     </a>
 </p>
 
-Dodatkowo warto **głębiej przeanalizować dane**, aby zobaczyć, które grupy wiekowe mają największy wpływ na ogólny wynik w poszczególnych województwach.
+W niektórych województwach można wyróżnić specyficzne grupy wiekowe, które znacząco wpływają na ogólny wynik.
 
-W **województwie pomorskim** wysoki współczynnik prób samobójczych wynika przede wszystkim z trudnej sytuacji wśród młodych dorosłych. W 2024 roku na **1 tysiąc nastolatków w wieku 13–18 lat** mieszkających w województwie pomorskim aż **2 osoby podjęły próbę odebrania sobie życia**. Warto jednak zauważyć istotną poprawę w tych grupach wiekowych w porównaniu do poprzedniego roku:
-* grupa 13–18 lat współczynnik zmniejszył się z 242 do 192 (spadek o 50),
-* grupa 19–24 lat współczynnik zmniejszył się z 203 do 139 (spadek o 64).
+* **Województwo pomorskie** – wysoki wskaźnik prób samobójczych wynika z trudnej sytuacji wśród **młodych dorosły**ch.
+    * W grupie 13–18 lat wskaźnik spadł z 242 do 192 (-50).
+    * W grupie 19–24 lat wskaźnik zmniejszył się z 203 do 139 (-64).
+* **Województwo łódzkie** – sytuacja jest trudna w znacznie szerszym zakresie wiekowym.
+    * W **czterech grupach wiekowych (13–34 lata) wskaźnik przekroczył wartość 100**. Oznacza to, że na każde 1 tysiąc mieszkańców tej grupy przypadała co najmniej 1 próba samobójcza.
+* Dodatkow trudna sytuacja w grupie 13–18 lat występuje również w:
+    * **Podlaskim** – współczynnik 133 (+9 rok do roku).
+    * **Zachodniopomorskim** – współczynnik 123 (+44 rok do roku).
 
-Natomiast w **województwie łódzkim** sytuacja jest trudna w znacznie szerszym zakresie wiekowym. **Aż w czterech grupach wiekowych współczynnik prób samobójczych przekroczył wartość 100**. Oznacza to, że na każde **1 tysiąc mieszkańców w wieku 13–34 lat** przypadała **co najmniej 1 próba samobójcza**.
-
-Województwa, w których najtrudniejsza sytuacja dotyczy głównie grupy wiekowej 13–18 lat, to:
-* Podlaskie – współczynnik 133 (wzrost o 9 rok do roku),
-* Zachodniopomorskie – współczynnik 123 (wzrost o 44 rok do roku).
-
-**Najbardziej stabilna sytuacja** pod względem liczby prób samobójczych występuje w województwach **mazowieckim, kujawsko-pomorskim oraz wielkopolskim**.
-
-
+**Najbardziej stabilna sytuacja** występuje w **województwach mazowieckim, kujawsko-pomorskim oraz wielkopolskim**.
 
 <p align="center">
-    <a href="https://www.datawrapper.de/_Kbjls/">
-        <img src="assets/08 - Samobójstwa - mapa 1a.png" width="600">
-    </a>
+    <img src="assets/08 - Samobójstwa - mapa ciepła prób.png" width="600">
 </p>
 
 
+W skali całego kraju w **2024 roku współczynnik samobójstw spadł o 7% w porównaniu do 2023 roku** (zmiana z 13,9 na 12,9).
 
-W skali całego kraju w 2024 roku współczynnik samobójstw względem 2023 roku spadł o 7% (zmiana z 13,9 na 12,9).
+Analizując sytuację w poszczególnych województwach, można zauważyć, że **większość regionów zmaga się z podobnym poziomem problemu** i nie wyróżnia się jeden obszar szczególnie mocno dotknięty. Jednak w **każdym województwie odnotowano spadek współczynnika** w porównaniu do roku 2023. **Największą poprawę** zaobserwowano w:
 
-Analizując wyniki poszczególnych województw, można zauważyć, że sytuacja w większości regionów pozostaje równie trudna i nie wyróżnia się jeden znacząco bardziej dotknięty obszar. Co więcej, w porównaniu do 2023 roku każde województwo odnotowało spadek współczynnika, przy czym największą poprawę zaobserwowano w województwach mazowieckim (spadek o 6,4) oraz podlaskim (spadek o 4,4).
+* **województwie mazowieckim** – spadek o 6,4,
+* **województwie podlaskim** – spadek o 4,4.
 
-W przyszłości warto przeanalizować strategie prewencyjne wdrożone w województwie mazowieckim, ponieważ skutecznie przyczyniły się do zmniejszenia zarówno liczby prób samobójczych, jak i samych samobójstw. Warto rozważyć możliwość ich implementacji w innych regionach Polski.
-
+W przyszłości warto **przeanalizować strategie prewencyjne wdrożone w województwie mazowieckim**, ponieważ skutecznie przyczyniły się one do **zmniejszenia zarówno liczby prób samobójczych, jak i samych samobójstw**. Rozważenie implementacji tych rozwiązań w innych regionach Polski mogłoby przynieść pozytywne efekty
 
 <p align="center">
     <a href="https://www.datawrapper.de/_/3ULST/">
-        <img src="assets/08 - Samobójstwa - mapa 2.png" width="400">
+        <img src="assets/08 - Samobójstwa - mapa samobójstw.png" width="400">
     </a>
 </p>
 
-Zgłębiając dane dotyczące wartości **współczynnika samobójstw** w podziale na grupy wiekowe i województwa, możemy dostrzec **trzy najbardziej wyróżniające się grupy**:
-* **Osoby w wieku 85+ z województwa warmińsko-mazurskiego** – współczynnik wyniósł 34, jednak warto zaznaczyć, że całkowita populacja tej grupy jest stosunkowo mała (27 tys. osób).
-* **Osoby w wieku 25–29 lat z województwa opolskiego** – współczynnik wyniósł 32, populacja tej grupy jest najniższa w Polsce i wynosi 47 tys. osób.
-* **Osoby w wieku 30–44 lat z województwa zachodniopomorskiego** – współczynnik wyniósł 25, a całkowita populacja tej grupy to 370 tys. osób.
+Analizując wartości **współczynnika samobójstw** w podziale na grupy wiekowe i województwa, można wyróżnić **trzy grupy wiekowe o najwyższym ryzyku**:
 
-Dodatkowo, porównując dane rok do roku, **nie widać ani istotnych trendów, ani drastycznych zmian w obrębie analizowanych grup**.
+* **Osoby w wieku 85+ z województwa warmińsko-mazurskiego** – współczynnik 34, jednak populacja tej grupy jest stosunkowo mała (27 tys. osób).
+* **Osoby w wieku 25–29 lat z województwa opolskiego** – współczynnik 32, co jest wynikiem szczególnie istotnym, biorąc pod uwagę, że populacja tej grupy w województwie jest najmniejsza w Polsce (47 tys. osób).
+* **Osoby w wieku 30–44 lat z województwa zachodniopomorskiego** – współczynnik 25, przy całkowitej populacji 370 tys. osób.
+
+Porównując dane rok do roku, **nie zaobserwowano istotnych trendów ani drastycznych zmian w obrębie analizowanych grup wiekowych**.
 
 
 <p align="center">
-    <a href="https://www.datawrapper.de/_Kbjls/">
-        <img src="assets/08 - Samobójstwa - mapa 2a.png" width="600">
-    </a>
+    <img src="assets/08 - Samobójstwa - mapa ciepła samobójstw.png" width="600">
 </p>
 
-Bardzo ważne jest również podkreślenie istotnych różnic między kobietami a mężczyznami. Każdego roku samobójstwo popełnia pięciokrotnie więcej mężczyzn niż kobiet. Natomiast, co warte zauważenia, od dekady rośnie odsetek prób samobójczych podejmowanych przez kobiety – jeszcze w 2015 roku wynosił on 20%, a w 2024 roku wzrósł do 37%.
 
-Niestety, statystyki publikowane przez policję nie zawierają informacji łączących wiek i płeć, dlatego nie możemy jednoznacznie określić, czy istnieje różnica w wieku, w którym problem jest największy.
+Bardzo istotne jest także **podkreślenie różnic między kobietami a mężczyznami** w kontekście samobójstw. **Każdego roku samobójstwo popełnia pięciokrotnie więcej mężczyzn niż kobiet**. Natomiast, co warte uwagi, **od dekady rośnie odsetek prób samobójczych podejmowanych przez kobiety** – jeszcze w 2015 roku wynosił on 20%, a w 2024 roku wzrósł do 37%.
+
+Niestety, statystyki publikowane przez policję nie zawierają danych łączących wiek i płeć, co uniemożliwia dokładne określenie, czy istnieją różnice w przedziale wiekowym, w którym problem osiąga największą skalę.
+Jednak, jak wynika z [raportu KGP](https://backend.zwjr.pl/media/attachments/Raport_og%C3%B3lny__za_lata_2020_2024_do_druku.pdf), w **grupie wiekowej poniżej 19 lat obserwuje się gwałtowny wzrost liczby prób samobójczych wśród dziewcząt**. Od 2020 do 2024 roku liczba takich prób wzrosła ponad trzykrotnie, a w 2024 roku dziewczęta odpowiadały za 78% wszystkich prób samobójczych w tej grupie wiekowej.
 
 
 <p align="center">
     <a href="https://public.flourish.studio/visualisation/21669085/">
-        <img src="assets/Samobójstwa - podział na płeć.png" width="600">
+        <img src="assets/09 - Samobójstwa - odsetek w podziale na płeć.png" width="600">
     </a>
 </p>
 
-Odnosząc dane do populacji w poszczególnych województwach, różnice między płciami stają się jeszcze bardziej wyraźne. Analizując dane w podziale na województwa, możemy zauważyć, jak znacząco różni się wartość współczynnika samobójstw między kobietami a mężczyznami. Maksymalna wartość współczynnika dla kobiet jest aż dwukrotnie niższa niż minimalna wartość dla mężczyzn.
 
-W 2024 roku ogólnopolski współczynnik samobójstw wśród mężczyzn był niemal sześciokrotnie wyższy niż wśród kobiet.
+Gdy odniesiemy dane do populacji poszczególnych województw, **różnice między płciami stają się jeszcze bardziej widoczne**. Analizując wartości współczynnika samobójstw w poszczególnych regionach, można zauważyć, **jak znacząco różnią się wskaźniki między kobietami a mężczyznami**. **Maksymalna wartość współczynnika dla kobiet jest aż dwukrotnie niższa niż minimalna wartość dla mężczyzn**.
 
-Najwyższy współczynnik samobójstw wśród mężczyzn odnotowano w województwie zachodniopomorskim, natomiast wśród kobiet – w województwie warmińsko-mazurskim. Najmniejszą skalę problemu w obu grupach płciowych zaobserwowano w województwie mazowieckim.
+**W 2024 roku ogólnopolski współczynnik samobójstw wśród mężczyzn był niemal sześciokrotnie wyższy niż wśród kobiet**.
+
+Najwyższy wskaźnik samobójstw wśród:
+* Mężczyzn – odnotowano w województwie zachodniopomorskim.
+* Kobiet – najwyższy współczynnik samobójstw wystąpił w województwie warmińsko-mazurskim.
+
+Najmniejszą skalę problemu w obu grupach płciowych zaobserwowano w **województwie mazowieckim**.
+
+
 
 <p align="center">
-    <img src="assets/Samobójstwa - porównanie wsp. kobiety i mężczyźni.png" width="600">
+    <img src="assets/09 - Samobójstwa - wsp samobójstw w podziale na płeć.png" width="500">
 </p>
 
 
-Miejsce - tak
+Dane policyjne zawierają informacje o dodatkowych kategoriach, jednak większość z nich jest niekompletna. Do analizy nadają się **dzień tygodnia, miejsce oraz sposób popełnienia samobójstwa**.
 
-sposób - tak
+**Poniedziałek to najczarniejszy dzień - największa liczba prób samobójczych i zgonów**.
 
-dzień tygodnia - tak 
 
-powód - 59% nie ustalone a 22,4 to choroby psychiczne
+**Powieszenie pozostaje dominującą metodą samobójczą** – w 2024 roku stanowiło 76% wszystkich samobójstw.
 
-stan cywilny - głupie
+Dodatkowo warto podkreślić **wysoką śmiertelność prób powieszenia** – na 100 takich prób aż 70 kończy się śmiercią. Dla porównania, inne powszechne metody, takie jak zażycie leków, samookaleczenie czy spożycie substancji chemicznych, charakteryzują się znacznie niższą śmiertelnością – na 100 prób średnio tylko 3 osoby ponoszą śmierć.
 
-wykształcenie - 73% brak danych
+<p align="center">
+    <img src="assets/10 - Samobójstwa - metoda.png" width="500">
+</p>
 
-informacja o pracy nauce - 52% brak danych
 
-źródło utrzymania - 43% brak danych, a 24% praca
+**62% samobójstw w 2024 roku miało miejsce w domu**. Znacznie mniej prób samobójczych odnotowano w garażach, piwnicach, lasach i zabudowaniach gospodarczych, jednak to właśnie tam odsetek zakończonych śmiercią prób jest najwyższy.
 
-stan świadomości - 82% brak danych, a 10% pod wpływem alkoholu
+<p align="center">
+    <img src="assets/10 - Samobójstwa - miejsce.png" width="500">
+</p>
 
-informacje dotyczące stanu zdrowia - 54% brak danych
+<br>
 
-kontakt z instytucjami
+***
 
+<!-- 
 Paleta kolorów 
 https://coolors.co/ac1e1e-3e4e50-eaeaea-449dd1-bc7c9c
 
@@ -297,40 +323,8 @@ https://coolors.co/ac1e1e-3e4e50-eaeaea-449dd1-bc7c9c
 #BC7C9C 
 
 
-<!--
-Gdzie w Polsce sytuacja jest najtrudniejsza
+-->
 
-
-
-### Przygotowane wizualizację:
-* **grafika ze statystyką** - komunikacja danych z roku 2023 w lekkostrawnej postaci działająca na wyobraźnię, ale bez wykresu
-* **wykres liniowy** - obrazujący liczbę prób samobjczych i zgonów na przestrzeni ostanich 25 lat
-* **mapa ciepła** - obrazująca liczbę prób samobójczych w podziale na rok i grupę wiekową 
-* **wykres słupkowy** - pokazujący wartość wskaźnika prób samobójczych i samobójst w rozbiciu na grupy wiekowe. 
-
-Wszystkie wizualizacje zostały przygotowane w programie **Datawrapper**, dodatkowo w programie **Canva** wprowadziłąm zmianę czcionki i koloru. Aby przejśc do interaktywnej wersji wykresów, kliknij w obrazek. 
-
-<br>
-
-
-
-
-
-
-Brak danych za 2024 ale wiemy że liczby spadły [informacja z konferencji 20.01](https://www.pap.pl/mediaroom/najwiekszy-spadek-liczby-samobojstw-od-dziesieciu-lat)
-
-[raport ](https://backend.zwjr.pl/media/attachments/Raport_og%C3%B3lny__za_lata_2020_2024_do_druku.pdf)
-
-[who](https://www.who.int/news-room/fact-sheets/detail/suicide) 
-
-[artykuł ](https://zwjr.pl/artykuly/statystyki-samobojstw-polska-i-swiat)
-
-stare hasło Polska:
-„Każdego dnia w Polsce 15 osób odbiera sobie życie, wśród nich jest jedno dziecko. W wyniku śmierci samobójczej ginie więcej osób niż w wypadkach drogowych” – te dwa zdania najczęściej pojawiają się w mediach, jeżeli chodzi o problem samobójstw w Polsce.
-
-
-***
->
 
 <!--
 
