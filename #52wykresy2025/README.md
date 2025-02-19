@@ -5,8 +5,9 @@ W tym roku chciałabym przygotować 52 wizualizacje, które zobrazują różnoro
 Podstawowym celem tego działania jest rozwój w obszarze eksplanacyjnych wizualizacji oraz dowiedzenie się więcej o otaczającym mnie świecie 🌎.
 
 Spis treści:
-1. [Populacja i powierzchnia największych miast Polski w latach 1939 a 2023.](#wykres-1-4-zmiana-populacji-i-powierzchni-sześciu-największych-miast-polski-po-ii-wojnie-światowej)
-2. [Samobójstwa w Polsce – jak zmieniała się sytuacja w latach 1999–2024?](#wykres-5-10-samobójstwa-w-polsce--jak-zmieniała-się-sytuacja-w-latach-19992024)
+1. Wykres 1-4: [Populacja i powierzchnia największych miast Polski w latach 1939 a 2023.](#wykres-1-4-zmiana-populacji-i-powierzchni-sześciu-największych-miast-polski-po-ii-wojnie-światowej)
+2. Wykres 5-11: [Samobójstwa w Polsce – jak zmieniała się sytuacja w latach 1999–2024?](#wykres-5-10-samobójstwa-w-polsce--jak-zmieniała-się-sytuacja-w-latach-19992024)
+3. 
 
 <br> 
 
@@ -94,7 +95,7 @@ Powyższy wykres prezentuje procentową zmianę populacji w porównaniu do stanu
 
 ***
 
-## Wykres 5-10: Samobójstwa w Polsce – jak zmieniała się sytuacja w latach 1999–2024?
+## Wykres 5-11: Samobójstwa w Polsce – jak zmieniała się sytuacja w latach 1999–2024?
 
 Jak wynika z [raportu WHO](https://www.who.int/news-room/fact-sheets/detail/suicide), każdego roku na świecie w wyniku samobójstwa życie traci ponad 720 tysięcy osób. Oznacza to, że **co 44 sekundy ktoś odchodzi z tego świata**. Problem samobójstw dotyka różnych grup społecznych, jednak szczególnie niepokojący jest wzrost wskaźników wśród młodych dorosłych. W grupie wiekowej 15–29 lat samobójstwo jest trzecią przyczyną śmiertelności (dane z 2021 roku). Każda próba samobójcza to tragedia, która dotyka nie tylko osoby podejmującej ten krok, ale również jej rodzinę i całą społeczność.
 
@@ -139,6 +140,10 @@ Najczęstsza metoda? **Powieszenie – odpowiada za 76% wszystkich samobójstw**
 
 Najwięcej samobójstw i prób samobójczych ma miejsce w **poniedziałki**.
 
+**W 2021 roku Polska (15,2), zajęła 14 miejsce w Europie pod względem współczynnika samobójstw**. Najwyższy wskaźnik odnotowano na **Litwie (27,9)**, a najniższy na **Cyprze (4,0)**.
+
+Dodatkowo, podobnie jak w Polsce, **we wszystkich europejskich krajach to mężczyźni znacznie częściej tracą życie w wyniku samobójstwa niż kobiety**.
+
 <br> 
 
 
@@ -152,7 +157,8 @@ Najwięcej samobójstw i prób samobójczych ma miejsce w **poniedziałki**.
 * **mapa ciepła** – obrazuje współczynnik prób samobójczych i samobójstw w zależności od województwa i grupy wiekowej;
 * s**kumulowany wykres kolumnowy** – ukazuje procentowy rozkład prób samobójczych i samobójstw według płci;
 * **wykres słupkowy** – przedstawia współczynniki prób samobójczych i samobójstw w podziale na województwa i płeć;
-* **wykres słupkowy** – wizualizuje liczbę prób samobójczych i zgonów w podziale na miejsce i metodę.
+* **wykres słupkowy** – wizualizuje liczbę prób samobójczych i zgonów w podziale na miejsce i metodę,
+* **interaktywna mapa Europy** - wizualizacja współczynnika samobójstw w podziale na płeć
 
 Wizualizacje zostały przygotowane w **Datawrapper** i **Flourish**, a w niektórych przypadkach w **Canva**, gdzie dostosowano czcionki i kolory. Część wykresów posiada interaktywne wersje – aby je zobaczyć, kliknij w obrazek.
 
@@ -308,9 +314,30 @@ Dodatkowo warto podkreślić **wysoką śmiertelność prób powieszenia** – n
     <img src="assets/10 - Samobójstwa - miejsce.png" width="500">
 </p>
 
+Jak wynika z danych opublikowanych przez [World Population](https://worldpopulationreview.com/country-rankings/suicide-rate-by-country), **w 2021 roku Polska odnotowała współczynnik samobójstw na poziomie 15,2** (wartość zbliżona do Estonii i Mołdawii), co daje nam **14 pozycję w europejskim rankingu** (na 43 kraje).
+
+**Najwyższy współczynnik samobójstw w Europie** odnotowano na **Litwie (27,9)**, następnie w Rosji (24,1) i Ukrainie (23,2). Warto również podkreślić, że **Litwa zajmuje trzecie miejsce na świecie**, ustępując jedynie Grenlandii (59,6) i Gujanie (31,2).
+
+Z kolei na**jniższy współczynnik samobójstw w Europie** zanotowano na **Cyprze (4,0)**, w Albanii (4,1) oraz na Malcie (5,0).
+
+Poniższa mapa przedstawia **współczynnik samobójstw dla całej populacji**, jednak w interaktywnej wersji można zobaczyć dane w podziale na płeć. Podobnie jak w Polsce, w pozostałych krajach europejskich **to mężczyźni częściej tracą życie w wyniku samobójstwa**.
+
+* Najwyższy współczynnik samobójstw wśród mężczyzn odnotowano na Litwie (50,0).
+* Najwyższy współczynnik samobójstw wśród kobiet zanotowano w Monako (9,8).
+
+<br>
+
+<p align="center">
+    <a href="https://public.flourish.studio/visualisation/21675089/">
+        <img src="assets/11 - Samobójstwa - mapa europy 2021.png" width="600">
+    </a>
+</p>
+
+
 <br>
 
 ***
+
 
 <!-- 
 Paleta kolorów 
@@ -322,6 +349,10 @@ https://coolors.co/ac1e1e-3e4e50-eaeaea-449dd1-bc7c9c
 #449DD1
 #BC7C9C 
 
+plik z danymi 
+https://docs.google.com/spreadsheets/d/1AeEEYJpCl7mEt2IiMR5o7obcMqmrZ4FVbcGj4QlBbSQ/edit?usp=
+
+https://docs.google.com/spreadsheets/d/1rl4TQeHdsChRrZH4i2CKtN3kAn1lYLS2I6oOzryL5DM/edit?usp=sharing
 
 -->
 
