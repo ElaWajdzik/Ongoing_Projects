@@ -5,7 +5,7 @@ W tym roku chciałabym przygotować 52 wizualizacje, które zobrazują różnoro
 Podstawowym celem tego działania jest rozwój w obszarze eksplanacyjnych wizualizacji oraz dowiedzenie się więcej o otaczającym mnie świecie 🌎.
 
 Spis treści:
-1. Wykres 1-4: [Populacja i powierzchnia największych miast Polski w latach 1939 a 2023.]([##wykres-1-4-zmiana-populacji-i-powierzchni-sześciu-największych-miast-polski-po-ii-wojnie-światowej](https://github.com/ElaWajdzik/Ongoing_Projects/edit/main/%2352wykresy2025/README.md#wykres-1-4-zmiana-populacji-i-powierzchni-sze%C5%9Bciu-najwi%C4%99kszych-miast-polski-po-ii-wojnie-%C5%9Bwiatowej))
+1. Wykres 1-4: [Populacja i powierzchnia największych miast Polski w latach 1939 a 2023.](https://github.com/ElaWajdzik/Ongoing_Projects/edit/main/%2352wykresy2025/README.md#wykres-1-4-zmiana-populacji-i-powierzchni-sze%C5%9Bciu-najwi%C4%99kszych-miast-polski-po-ii-wojnie-%C5%9Bwiatowej)
 2. Wykres 5-11: [Samobójstwa w Polsce – jak zmieniała się sytuacja w latach 1999–2024?](#wykres-5-10-samobójstwa-w-polsce--jak-zmieniała-się-sytuacja-w-latach-19992024)
 3. 
 
