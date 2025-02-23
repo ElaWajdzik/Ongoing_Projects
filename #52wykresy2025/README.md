@@ -55,7 +55,7 @@ Wszystkie wizualizacje zostały przygotowane w programie **Datawrapper**, dodatk
 <br>
 
 <p align="center">
-    <a href="https://www.datawrapper.de/_/gdikt/">
+    <a href="https://www.datawrapper.de/_/gdikt/"  target="_blank">
         <img src="assets/01 - Miasta - zmiana liczby ludności.png" width="600">
     </a>
 </p>
