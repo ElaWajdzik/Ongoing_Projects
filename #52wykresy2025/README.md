@@ -1,6 +1,7 @@
 # #52wykresy2025
 
-W tym roku chciałabym przygotować 52 wizualizacje, które zobrazują różnorodne dane na temat interesujących mnie zagadnień. Działanie to jest zainspirowane [projektem #52wykresy2022](https://jezykdanych.pl/52wykresy2022/), który realizowała Klaudia Stano na blogu [jezykdanych.pl](https://jezykdanych.pl/).
+W tym roku chciałabym przygotować 52 wizualizacje, które zobrazują różnorodne dane na temat interesujących mnie zagadnień. Działanie to jest zainspirowane 
+<a href="https://jezykdanych.pl/52wykresy2022/" target="_blank" rel="noopener noreferrer">projektem #52wykresy2022</a>, który realizowała Klaudia Stano na blogu [jezykdanych.pl](https://jezykdanych.pl/).
 
 Podstawowym celem tego działania jest rozwój w obszarze eksplanacyjnych wizualizacji oraz dowiedzenie się więcej o otaczającym mnie świecie 🌎.
 
@@ -55,7 +56,7 @@ Wszystkie wizualizacje zostały przygotowane w programie **Datawrapper**, dodatk
 <br>
 
 <p align="center">
-    <a href="https://www.datawrapper.de/_/gdikt/">
+    <a href="https://www.datawrapper.de/_/gdikt/"  target="_blank">
         <img src="assets/01 - Miasta - zmiana liczby ludności.png" width="600">
     </a>
 </p>
