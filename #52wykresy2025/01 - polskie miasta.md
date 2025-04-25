@@ -1,5 +1,6 @@
 # Zmiana populacji i powierzchni sześciu największych miast Polski po II wojnie światowej
 
+
 Spis treście:
 * [Wprowadzenie - krótkie tło analizowanego tematu](#wprowadzanie)
 * [Pytania, na które szukałam odpowiedzi](#kluczowe-pytania-na-które-szukałam-odpowiedzi)
@@ -87,6 +88,6 @@ Powyższy wykres prezentuje procentową zmianę populacji w porównaniu do stanu
 
 Dziękuję za Twoją uwagę! 🫶️
 
-[Kolejny temat ➔ *Samobójstwa w Polsce – jak zmieniała się sytuacja w latach 1999–2024?*]()
+[Kolejny temat ➔ *Samobójstwa w Polsce – jak zmieniała się sytuacja w latach 1999–2024?*](https://github.com/ElaWajdzik/Ongoing_Projects/blob/main/%2352wykresy2025/02%20-%20samob%C3%B3jstwa.md)
 
 [Powrót do README #52wykresy2025](https://github.com/ElaWajdzik/Ongoing_Projects/tree/main/%2352wykresy2025)
