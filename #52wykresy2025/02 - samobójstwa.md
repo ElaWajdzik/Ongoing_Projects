@@ -232,7 +232,7 @@ Jak wynika z danych opublikowanych przez [World Population](https://worldpopulat
 
 **Najwyższy współczynnik samobójstw w Europie** odnotowano na **Litwie (27,9)**, następnie w Rosji (24,1) i Ukrainie (23,2). Warto również podkreślić, że **Litwa zajmuje trzecie miejsce na świecie**, ustępując jedynie Grenlandii (59,6) i Gujanie (31,2).
 
-Z kolei na**jniższy współczynnik samobójstw w Europie** zanotowano na **Cyprze (4,0)**, w Albanii (4,1) oraz na Malcie (5,0).
+Z kolei **najniższy współczynnik samobójstw w Europie** zanotowano na **Cyprze (4,0)**, w Albanii (4,1) oraz na Malcie (5,0).
 
 Poniższa mapa przedstawia **współczynnik samobójstw dla całej populacji**, jednak w interaktywnej wersji można zobaczyć dane w podziale na płeć. Podobnie jak w Polsce, w pozostałych krajach europejskich **to mężczyźni częściej tracą życie w wyniku samobójstwa**.
 
