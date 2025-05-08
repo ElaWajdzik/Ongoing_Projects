@@ -58,17 +58,17 @@ Jeśli jesteś ciekaw, kim są, skąd się wzięli i co ich łączy to zapraszam
 
 ## Przygotowane wizualizację:
 
-* **kartogram z podziałem na kontynenty** – ilistracja współczynnik liczby miliarderów przypadających na każde 3 mln populacji w podziale na kontynenty;
-* **wykres słupkowy liczby miliarderów w podziale na kraj pochodzenia** - wizualizacja pokazująca jak wygląda ranking krajów pod względem pochodzenia nominalnej liczby miliarderów;
-* **wykres słupkowy współczynnka liczby miliarderów na 1 mln mieszkańców w podziale na kraj** - wizualizacja umożliwiająca porównanie jak wygląda sytuacja między krajami uwzględniając wielkośc populacji;
-* **wykres nachyleń zmiany współczynnka liczby miliarderów na 1 mln mieszkańców w wyniku migracji** - wizualizacja pokazująca jaki wpływ na badany wskaźnik miała migracja, porównanie wskaźnika z perspektywy kraju pochodzenia do kraju rezydencji;
-* **wykres słupkowy liczby miliarderów w podziale na miasto zamieszkania** - wizualizacja prezentująca największe skupiska miliarderów;
-* **mapa świata z lokalizacjami aktualnych rezydencji miliarderów** - prezentacja skupisk lokalizacji zamieszkania miliarderów;
-* 
+* **kartogram z podziałem na kontynenty** – – przedstawia współczynnik liczby miliarderów przypadających na każde 3 miliony mieszkańców, z podziałem na kontynenty;
+* **wykres słupkowy - liczba miliarderów według kraju pochodzenia** - ranking krajów z największą liczbą osób na liście, bez uwzględniania populacji;
+* **wykres słupkowy - współczynnik liczby miliarderów na 1 mln mieszkańców** - porównanie krajów z uwzględnieniem ich populacji, pozwalające ocenić względne „szanse” na zostanie miliarderem;
+* **wykres nachyleń - wpływ migracji na współczynnik** - wizualizacja pokazuje, jak zmienia się wskaźnik liczby miliarderów na 1 mln mieszkańców w zależności od kraju pochodzenia i aktualnej rezydencji;
+* **wykres słupkowy - liczba miliarderów według miasta zamieszkania** - zestawienie największych skupisk miliarderów na poziomie miejskim;
+* **mapa świata z lokalizacjami rezydencji miliarderów** - wizualizacja 789 miejsc zamieszkania osób z listy Forbes ze zróżnicowanych wielkością punktu;
+* **histogram wieku w przedziałach 10-letnich** - prezentacja rozkładu wieku miliarderów z podziałem na grupy wiekowe;
+* **histogram rozkładu wieku** - szczegółowy rozkład wieku, pozwalający dostrzec konkretne „szczyty” liczebności;
 
 
-Wizualizacje zostały przygotowane w programie **Datawrapper** lub **Flourish**. Część z wizualizacji została dodatkowo obrobiona w graficznym programie **Canva**.
-
+Wizualizacje zostały przygotowane przy użyciu narzędzi **Datawrapper** i **Flourish**. Wybrane grafiki zostały dodatkowo opracowane wizualnie w programie **Canva**.
 
 
 <br>
@@ -80,7 +80,7 @@ Kiedy myślimy o miliarderach, na myśl przychodzą najczęściej takie nazwiska
 
 <p align="center">
     <a>
-        <img src="assets/Miliarderzy - top 4.png" width="500">
+        <img src="assets/Miliarderzy - top 4.png" width="600">
     </a>
 </p>
 
@@ -188,6 +188,35 @@ Na mapie wyraźnie widać również **brak intensywnych skupisk** w **Ameryce Po
         <img src="assets/17 - Miliarderzy - mapa miasta.png" width="800">
     </a>
 </p>
+
+Wiemy już, skąd pochodzą miliarderzy i gdzie mieszkają dziś. Kolejnym krokiem w analizie jest odpowiedź na pytanie **Kim są?** W jakim są wieku, jakiej są płci i skąd pochodzi ich majątek?
+
+Lista miliarderów magazynu Forbes jest **zdecydowanie zdominowana przez mężczyzn** na każde 15 osób na liście aż 13 to mężczyźni. Najwyżej notowaną kobietą jest **Alice Walton**, spadkobierczyni sieci Walmart, która z majątkiem wycenianym na **99 miliardów dolarów** zajmuje ona **16 miejsce** w globalnym rankingu.
+
+<p align="center">
+    <a>
+        <img src="assets/Miliarderzy - top kobieta.png" width="600">
+    </a>
+</p>
+
+
+Choć kobiet na liście jest znacznie mniej, to z punktu widzenia zgromadzonego majątku **różnice między płciami są zaskakująco niewielkie**. Średni majątek mężczyzn wynosi 2,46 miliarda dolarów, a kobiet 2,43 miliarda. To pokazuje, że kobiety, które trafiają na listę, są **przeciętnie równie zamożne** jak mężczyźni.
+
+Jedną z podstawowych cech opisujących miliarderów jest wiek. Ponad połowa osób z listy znajduje się w przedziale **60-79 lat** jest to pokolenie urodzone tuż po zakończeniu II wojny światowej, często określane jako **baby boomers**. Co ciekawe, ta grupa odpowiada też za niemal połowę całkowitego majątku wszystkich miliarderów.
+
+Choć intuicyjnie mogłoby się wydawać, że im ktoś starszy, tym więcej zgromadził majątku, jednak dane tego nie potwierdzają. **Wiek miliardera praktycznie nie ma wpływu na wysokość jego fortuny** - zależność między tymi dwoma czynnikami jest znikoma.
+
+Nieco inaczej wygląda to w przypadku **kobiet**. U nich widać, że **starsze miliarderki mają przeciętnie nieco większy majątek niż młodsze**. Wśród mężczyzn taki związek nie występuje — ich wiek nie ma zauważalnego znaczenia dla poziomu zgromadzonego majątku.
+
+<p align="center">
+    <a>
+        <img src="assets/18 - Miliarderzy - wiek 10lat.png" width="600">
+    </a>
+</p>
+
+Zaglądając w dane głębiej i patrząc na dokładny wiek miliarderów 
+
+
 
 
 
