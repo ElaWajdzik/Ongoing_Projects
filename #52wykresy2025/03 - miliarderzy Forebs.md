@@ -45,7 +45,8 @@ Jeśli jesteś ciekaw, kim są, skąd się wzięli i co ich łączy to zapraszam
 
 ### Kluczowe pytania, na które szukałam odpowiedzi:
 
-* Skąd pochodzą miliarderzy? Czy urodzenie w jakimś miejscu sprawia że mamy większe szanse na stanie się miliarderem w przyszłości?
+* Skąd pochodzą miliarderzy? Czy urodzenie w jakimś miejscu sprawia że mamy większe szanse na zostanie miliarderem_ką?
+* Kim są osoby na liście?
 * W jakiej branży najcześciej działają miliarderzy?
 * 
 
@@ -214,16 +215,34 @@ Nieco inaczej wygląda to w przypadku **kobiet**. U nich widać, że **starsze m
     </a>
 </p>
 
-Zaglądając w dane głębiej i patrząc na dokładny wiek miliarderów 
+Wiek miliarderów z listy Forbes rozciąga się **od 19 do aż 103 lat**, a każdy rocznik jest reprezentowany co najmniej raz. Najmłodszym miliarderem jest **Johannes von Baumbach**, 19-letni niemiec, który wraz z rodzeństwem odziedziczył rodzinną firmę farmaceutyczną **Boehringer Ingelheim**. Z kolei najstarszym przedstawicielem rankingu jest **George Joseph**, 103-letni amerykanin, właściciel firmy ubezpieczeniowej **Mercury General Corporation**, który na początku dorosłego życia służył w armii podczas II wojny światowej.
+
+<p align="center">
+    <a>
+        <img src="assets/Miliarderzy - wiek.png" width="600">
+    </a>
+</p>
+
+Analiza wieku pokazuje, że najliczniej reprezentowane są dwie grupy wiekowe **59-63 lata** oraz **67-71 lat**. Każda z nich skupia po około **14,5% wszystkich miliarderów** i odpowiada za **14,3% całkowitego majątku** zgromadzonego przez osoby z listy. Co ciekawe, pomiędzy tymi dwoma „szczytami” znajduje się **trzyletni spadek liczebności (64-66 lat)**. Liczba miliarderów w tym wieku jest wyraźnie niższa od oczekiwanej, niestety trudno jednoznacznie stwierdzić, z czego to wynika. Jeśli masz pomysł na możliwe wyjaśnienie, chętnie go poznam.
+
+Obecnie **przeciętny miliarder ma 66 lat**, a **najczęściej występujący wiek to 69 lat**.
+
+<p align="center">
+    <a>
+        <img src="assets/19 - Miliarderzy - wiek.png" width="600">
+    </a>
+</p>
+
+**Skąd pochodzi majątek miliarderów?** Czy to efekt własnej pracy, czy raczej spuścizna po poprzednich pokoleniach?
+
+Z danych wynika, że **na każde 15 osób z listy aż 10 doszło do swojej fortuny samodzielnie**. Pozostała piątka odziedziczyła majątek przy czym **3 na 5 spadkobierców aktywnie rozwija odziedziczony kapitał**.
+
+Warto też zwrócić uwagę na wyraźne różnice między płciami. **Kobiety na liście Forbes to w większości spadkobierczynie - aż 74% z nich odziedziczyło majątek**, a tylko nieliczne kontynuują jego rozwój. Dla porównania, **wśród mężczyzn aż 73% zbudowało majątek samodzielnie**, a wśród dziedziców przeważają ci, którzy nadal rozwijają swój kapitał.
+
+Podobne różnice można zaobserwować na poziomie geograficznym. **W Azji i Ameryce Północnej ponad 70% miliarderów to osoby self-made**. Natomiast **w Europie tylko 45% miliarderów samodzielnie doszło do swojego majątku**, co wskazuje na silniejsze dziedziczenie fortun w tej części świata
 
 
 
-
-
-
-
-
-<br>
 
 ## Dalsze kroki
 
