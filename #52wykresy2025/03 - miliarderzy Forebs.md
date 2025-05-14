@@ -67,6 +67,8 @@ Jeśli jesteś ciekaw, kim są, skąd się wzięli i co ich łączy to zapraszam
 * **mapa świata z lokalizacjami rezydencji miliarderów** - wizualizacja 789 miejsc zamieszkania osób z listy Forbes ze zróżnicowanych wielkością punktu;
 * **histogram wieku w przedziałach 10-letnich** - prezentacja rozkładu wieku miliarderów z podziałem na grupy wiekowe;
 * **histogram rozkładu wieku** - szczegółowy rozkład wieku, pozwalający dostrzec konkretne „szczyty” liczebności;
+* **skumulowany wykres słupkowy – źródła majątku** – procentowy podział miliarderów według typu majątku (self-made, odziedziczony i rozwijany, w pełni odziedziczony) w krajach z największą liczbą miliarderów;
+
 
 
 Wizualizacje zostały przygotowane przy użyciu narzędzi **Datawrapper** i **Flourish**. Wybrane grafiki zostały dodatkowo opracowane wizualnie w programie **Canva**.
@@ -239,10 +241,44 @@ Z danych wynika, że **na każde 15 osób z listy aż 10 doszło do swojej fortu
 
 Warto też zwrócić uwagę na wyraźne różnice między płciami. **Kobiety na liście Forbes to w większości spadkobierczynie - aż 74% z nich odziedziczyło majątek**, a tylko nieliczne kontynuują jego rozwój. Dla porównania, **wśród mężczyzn aż 73% zbudowało majątek samodzielnie**, a wśród dziedziców przeważają ci, którzy nadal rozwijają swój kapitał.
 
-Podobne różnice można zaobserwować na poziomie geograficznym. **W Azji i Ameryce Północnej ponad 70% miliarderów to osoby self-made**. Natomiast **w Europie tylko 45% miliarderów samodzielnie doszło do swojego majątku**, co wskazuje na silniejsze dziedziczenie fortun w tej części świata
+Podobne różnice można zaobserwować na poziomie geograficznym. **W Azji i Ameryce Północnej ponad 70% miliarderów to osoby self-made**. Natomiast **w Europie tylko 45% miliarderów samodzielnie doszło do swojego majątku**, co wskazuje na silniejsze dziedziczenie fortun w tej części świata.
+
+**Jeszcze większe różnice w strukturze majątku widać na poziomie poszczególnych krajów**. W takich państwach jak **Chiny**, **Rosja** czy **Wielka Brytania**, zdecydowana większość miliarderów (ponad 90%) zbudowała swój majątek samodzielnie. Z kolei w **Niemczech**, **Francji** i **Włoszech** przeważają fortuny dziedziczone, które często nie są dalej rozwijane.
+
+<p align="center">
+    <a>
+        <img src="assets/20 - Miliarderzy - self-made.png" width="600">
+    </a>
+</p>
+
+**Czym właściwie zajmują się najbogatsi?** W jakich branżach działa najwięcej miliarderów, a które odpowiadają za największy majątek?
+
+W danych z listy Forbes wyróżniono **18 głównych branż**, w których funkcjonują miliarderzy - od technologii i finansów, przez modę, nieruchomości, media, energetykę, aż po branżę spożywczą.
+
+**Najwięcej miliarderów działa w finansach i inwestycjach** łącznie 455 osób, czyli 15,8% całej listy. Jednak to **technologia odpowiada za największy łączny majątek**, aż 19,4% całkowitej wartości majątków miliarderów.
+
+**Cztery najliczniejsze branże** - finanse i inwestycje, technologia, produkcja oraz moda i handel detaliczny, skupiają blisko **połowę wszystkich miliarderów** (49,1%) i odpowiadają za **ponad połowę globalnego majątku** (54,7%).
+
+Najbogatsi przeciętnie działają w branży **motoryzacyjnej**, choć to jedna z najmniej licznych grup (zaledwie 73 osoby). Po drugiej stronie znajduje się **produkcja**, w której przeciętny majątek jest najniższy spośród wszystkich branż.
+
+**Technologia** to również branża z **największym udziałem kapitałów wypracowanych samodzielnie**, aż 92% osób to miliarderzy self-made. Z kolei największy udział majątków dziedziczonych występuje w kategorii o **zdywersyfikowanej działalności**, gdzie jedynie 42% osób zbudowało swoją fortunę od podstaw.
+
+
+<p align="center">
+    <a>
+        <img src="assets/21 - Miliarderzy - branza.png" width="600">
+    </a>
+</p>
 
 
 
+
+
+
+
+
+
+<br>
 
 ## Dalsze kroki
 
