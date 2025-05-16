@@ -270,6 +270,32 @@ Najbogatsi przeciętnie działają w branży **motoryzacyjnej**, choć to jedna 
     </a>
 </p>
 
+Branże miliarderów różnią się nie tylko skalą majątku czy liczebnością przedstawicieli, ale także strukturą demograficzną i geograficzną. Jednym z ciekawszych wymiarów tych różnic jest udział kobiet w poszczególnych sektorach.
+
+**Choć kobiety stanowią zaledwie ok. 13% wszystkich miliarderów**, w niektórych branżach ich obecność jest wyraźnie bardziej zauważalna. **Największy odsetek kobiet występuje w sektorze żywności i napojów**, gdzie aż **22%** osób na liście to miliarderki. Na przeciwnym biegunie znajdują się finanse i inwestycje - zaledwie 8,6% kobiet - oraz telekomunikacja, w której nie ma ani jednej kobiety. W ujęciu liczbowym najwięcej kobiet (52 osoby) działa w branży produkcyjnej.
+
+Kolejną czynnikiem różnicującym jest **wiek**. Mediana wieku wszystkich miliarderów to 66 lat, jednak między branżami widać silne rozbieżności. **Technologia to zdecydowanie najmłodsza branża**, gdzie mediana wieku wynosi 56 lat. Z kolei w **motoryzacji działają osoby starsze**, przeciętny miliarder w tym sektorze ma 72 lata. Co ciekawe, to właśnie w tej branży występuje najwyższy przeciętny majątek, co może sugerować długotrwałe budowanie fortuny lub koncentrację kapitału wśród wąskiej grupy.
+
+<p align="center">
+    <a>
+        <img src="assets/22 - Miliarderzy - mediana wieku.png" width="500">
+    </a>
+</p>
+
+**Rozkład geograficzny** również ujawnia ciekawe zależności.
+
+Różne części świata specjalizują się w odmiennych gałęziach biznesu:
+* **Azja dominuje w produkcji** – aż 60,8% miliarderów z tej branży pochodzi z tego kontynentu.
+* **Europa to głównie moda i handel detaliczny** – 37,3% osób działających w tej branży to europejczycy.
+* **Ameryka Północna skupia się na finansach (26,4%) oraz technologii (18,6%)** – dwóch sektorach, które jednocześnie odpowiadają za największy łączny majątek na świecie.
+
+Na poziomie **krajów** (analizując 17 państw z największą liczbą miliarderów) wyraźnie widać lokalne specjalizacje:
+* USA, Wielka Brytania i Brazylia - dominują finanse i inwestycje,
+* Chiny i Niemcy - produkcja,
+* Włochy i Francja -  moda i handel detaliczny,
+* Indie i Szwajcaria -  ochronie zdrowia,
+* Rosja - energetyka,
+* Honkong i Singapur - nieruchomości.
 
 
 
