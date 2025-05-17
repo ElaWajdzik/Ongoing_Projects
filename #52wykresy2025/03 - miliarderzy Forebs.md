@@ -1,4 +1,4 @@
-# tytuł
+# Miliarderzy w liczbach. Kim są najbogatsi ludzie świata?
 
 
 Spis treście:
@@ -45,14 +45,42 @@ Jeśli jesteś ciekaw, kim są, skąd się wzięli i co ich łączy to zapraszam
 
 ### Kluczowe pytania, na które szukałam odpowiedzi:
 
-* Skąd pochodzą miliarderzy? Czy urodzenie w jakimś miejscu sprawia że mamy większe szanse na zostanie miliarderem_ką?
-* Kim są osoby na liście?
-* W jakiej branży najcześciej działają miliarderzy?
-* 
+* Skąd pochodzą miliarderzy? Czy urodzenie w konkretnym kraju lub regionie zwiększa szanse na bycie miliarderem?
+* Kim są osoby na liście? Jakie mają cechy wspólne - wiek, płeć, źródło majątku?
+* W jakim wieku najczęściej są miliarderzy? Czy wiek ma związek z wysokością zgromadzonego majątku?
+* Skąd pochodzi majątek miliarderów? Czy zawdzięczają go pracy własnej, czy dziedziczeniu?
+* W jakich branżach działa najwięcej miliarderów? Które sektory generują największy majątek?
 
 <br>
 
 ## Czy wiesz, że...
+
+Choć na świecie żyje niemal 3 tysiące miliarderów, to aż **co piąty z nich mieszka w zaledwie 9 miastach**. Najwięcej - w Nowym Jorku.
+
+**Stany Zjednoczone to ojczyzna największej liczby miliarderów**, ale w przeliczeniu na populację zajmują dopiero ósme miejsce. Liderami są Hongkong i Singapur, dwa azjatyckie miasta-państwa.
+
+Dziś prawdziwą **„krainą miliarderów” jest Monako**, niewielkie państwo o powierzchni 2 km², w którym na 39 tysięcy mieszkańców przypada aż 18 miliarderów.
+
+**Miliarderem jest średnio jedna osoba na 3 miliony ludzi**, ale w Ameryce Północnej ta „szansa” jest aż **pięciokrotnie wyższa** niż globalna średnia.
+
+<p align="center">
+    <a>
+        <img src="assets/12 - Miliarderzy - kontynent pochodzenia.png" width="500">
+    </a>
+</p>
+
+
+**Ponad połowa osób na liście to pokolenie baby boomers** - dziś w wieku 60-79 lat. Najczęściej powtarzający się wiek to 69 lat.
+
+**Najmłodszy miliarder ma 19 lat, a najstarszy - 103**. Pierwszy to niemiecki spadkobierca rodzinnej firmy farmaceutycznej. Drugi to amerykański przedsiębiorca, który sam w 1961 roku założył firmę ubezpieczeniową.
+
+**2 na 3 miliarderów zbudowało majątek samodzielnie**, ale w Europie dominują fortuny dziedziczone. W Niemczech tylko 1 na 4 miliarderów dorobił się samodzielnie.
+
+**Kobiety stanowią zaledwie 13% listy**, ale gdy już się na niej znajdą to są równie zamożne jak mężczyźni. 
+
+Tylko wśród kobiet obserwujemy związek między wiekiem a wartością majątku - starsze miliarderki mają statystycznie wyższy majątek niż młodsze.
+
+**Technologia to najmłodsza branża**, z przeciętnym wiekiem wynoszącym 56 lat (czyli o 10 lat mniej niż ogólna mediana). Aż 92% osób z tej branży zbudowało majątek samodzielnie.
 
 <br> 
 
@@ -318,11 +346,6 @@ Na poziomie **krajów** (analizując 17 państw z największą liczbą miliarder
 
 
 
-
-
-
-
-
 <br>
 
 ## Dalsze kroki
@@ -335,7 +358,7 @@ Na poziomie **krajów** (analizując 17 państw z największą liczbą miliarder
 Dziękuję za Twoją uwagę! 🫶️
 
 <!--
-[Kolejny temat ➔ *Samobójstwa w Polsce – jak zmieniała się sytuacja w latach 1999–2024?*]()
+[Kolejny temat ➔ *Samobójstwa w Polsce - jak zmieniała się sytuacja w latach 1999-2024?*]()
 -->
 
 [Powrót do README #52wykresy2025](https://github.com/ElaWajdzik/Ongoing_Projects/tree/main/%2352wykresy2025)
