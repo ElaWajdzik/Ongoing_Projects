@@ -59,7 +59,7 @@ Jeśli jesteś ciekaw, kim są, skąd się wzięli i co ich łączy to zapraszam
 
 ## Przygotowane wizualizację:
 
-* **kartogram z podziałem na kontynenty** – – przedstawia współczynnik liczby miliarderów przypadających na każde 3 miliony mieszkańców, z podziałem na kontynenty;
+* **kartogram z podziałem na kontynenty** - przedstawia współczynnik liczby miliarderów przypadających na każde 3 miliony mieszkańców, z podziałem na kontynenty;
 * **wykres słupkowy - liczba miliarderów według kraju pochodzenia** - ranking krajów z największą liczbą osób na liście, bez uwzględniania populacji;
 * **wykres słupkowy - współczynnik liczby miliarderów na 1 mln mieszkańców** - porównanie krajów z uwzględnieniem ich populacji, pozwalające ocenić względne „szanse” na zostanie miliarderem;
 * **wykres nachyleń - wpływ migracji na współczynnik** - wizualizacja pokazuje, jak zmienia się wskaźnik liczby miliarderów na 1 mln mieszkańców w zależności od kraju pochodzenia i aktualnej rezydencji;
@@ -67,8 +67,10 @@ Jeśli jesteś ciekaw, kim są, skąd się wzięli i co ich łączy to zapraszam
 * **mapa świata z lokalizacjami rezydencji miliarderów** - wizualizacja 789 miejsc zamieszkania osób z listy Forbes ze zróżnicowanych wielkością punktu;
 * **histogram wieku w przedziałach 10-letnich** - prezentacja rozkładu wieku miliarderów z podziałem na grupy wiekowe;
 * **histogram rozkładu wieku** - szczegółowy rozkład wieku, pozwalający dostrzec konkretne „szczyty” liczebności;
-* **skumulowany wykres słupkowy – źródła majątku** – procentowy podział miliarderów według typu majątku (self-made, odziedziczony i rozwijany, w pełni odziedziczony) w krajach z największą liczbą miliarderów;
-
+* **skumulowany wykres słupkowy - źródła majątku** - procentowy podział miliarderów według typu pochodzenia majątku (self-made, odziedziczony i rozwijany, w pełni odziedziczony)  w państwach z największą liczbą miliarderów;
+* **wykres słupkowy - branże i majątek** - porównanie udziału poszczególnych branż w liczbie miliarderów oraz w wartości całkowitego majątku;
+* **wykres słupkowy - mediana wieku według branży** - pokazuje różnice w przeciętnym wieku miliarderów w zależności od sektora działalności;
+* **wykres rozrzutu (beeswarm)** - rozkład wieku i płci miliarderów w pięciu najważniejszych branżach (dostępna także [wersja interaktywna](https://public.flourish.studio/visualisation/23240788/) z filtrem majątku i podglądem szczegółów).
 
 
 Wizualizacje zostały przygotowane przy użyciu narzędzi **Datawrapper** i **Flourish**. Wybrane grafiki zostały dodatkowo opracowane wizualnie w programie **Canva**.
@@ -79,7 +81,7 @@ Wizualizacje zostały przygotowane przy użyciu narzędzi **Datawrapper** i **Fl
 
 ## Szczegółowe omówienie zagadnienia
 
-Kiedy myślimy o miliarderach, na myśl przychodzą najczęściej takie nazwiska jak **Elon Musk** (Tesla, SpaceX), **Jeff Bezos** (Amazon), **Mark Zuckerberg** (Meta/Facebook) czy **Warren Buffett** (Berkshire Hathaway, inwestycje). Elon Musk to także jedyna osoba w historii, której majątek przekroczył wartość **400 miliardów dolarów**. Jednak świat miliarderów to znacznie więcej niż kilku medialnych gigantów. Dzięki rankingowi tworzonym przez magazyn [**Forbes**](https://www.forbes.com/real-time-billionaires/) mamy możliwość przyjrzenia się im **z perspektywy danych** i zobaczyć, skąd pochodzą, w jakich branżach działają, ile mają lat i gdzie mieszkają.
+Kiedy myślimy o miliarderach, najczęściej kojarzymy takie nazwiska jak **Elon Musk** (Tesla, SpaceX), **Jeff Bezos** (Amazon), **Mark Zuckerberg** (Meta/Facebook) czy **Warren Buffett** (Berkshire Hathaway, inwestycje). Elon Musk to także jedyna osoba w historii, której majątek przekroczył wartość **400 miliardów dolarów**. Jednak świat miliarderów to znacznie więcej niż kilku medialnych gigantów. Dzięki rankingowi tworzonym przez magazyn [**Forbes**](https://www.forbes.com/real-time-billionaires/) mamy możliwość przyjrzenia się im **z perspektywy danych** i zobaczyć, skąd pochodzą, w jakich branżach działają, ile mają lat i gdzie mieszkają.
 
 <p align="center">
     <a>
@@ -120,13 +122,13 @@ Jak wynika z danych, niemal **co trzeci miliarder przyszedł na świat w Stanach
 
 Samo porównywanie liczby miliarderów między krajami **może być jednak mylące**, przede wszystkim z uwagi na **znaczne różnice w liczebności populacji**. Aby rzetelnie ocenić, czy pochodzenie z danego państwa rzeczywiście daje „większe szanse” na zbudowanie fortuny, warto spojrzeć na **współczynnik liczby miliarderów przypadających na milion mieszkańców**. Dopiero taki wskaźnik umożliwia uczciwe i porównywalne zestawienie.
 
-Patrząc z perspektywy krajów o populacji przekraczającej **1 milion mieszkańców**, najwyższe pozycje w rankingu współczynnika liczby miliarderów przypadających na milion mieszkańców zajmują **dwa azjatyckie miasta-państwa** – **Hongkong** i **Singapur**. Co ciekawe, w klasycznym ujęciu liczby miliarderów nie znalazły się one w pierwszej piątce krajów.
+Patrząc z perspektywy krajów o populacji przekraczającej **1 milion mieszkańców**, najwyższe pozycje w rankingu współczynnika liczby miliarderów przypadających na milion mieszkańców zajmują **dwa azjatyckie miasta-państwa** - **Hongkong** i **Singapur**. Co ciekawe, w klasycznym ujęciu liczby miliarderów nie znalazły się one w pierwszej piątce krajów.
 
 **Stany Zjednoczone**, mimo zdecydowanej przewagi nominalnej, uplasowały się dopiero na **8 miejscu** pod względem badanego współczynnika. Wyprzedziły je m.in. **Szwajcaria**, **Szwecja** i **Norwegia**, czyli trzy kraje europejskie, które nie tylko cechują się wysokim poziomem rozwoju, ale także stosunkowo niewielką populacją - co wyraźnie podnosi wartość tego wskaźnika.
 
 W wizualizacji celowo **pominięłam kraje o populacji mniejszej niż 1 milion osób**, ponieważ analizowany współczynnik jest bardzo wrażliwy na wartość mianownika - w przypadku mikropaństw nawet jeden miliarder może znacząco zawyżać wynik. Omówienie tych przypadków wymagałoby osobnego zestawienia. 
 
-Top 3 rankingu mikropaństw:
+Pierwsza trójka w rankingu mikropaństw:
 * **Monako** → współczynnik = 51 (populacja 39 tys. i 2 miliarderów)
 * **Saint Kitts i Nevis** → 43 (populacja 47 tys. i 2 miliarderów)
 * **Liechtenstein** → 25 (populacja 40 tys. i 1 miliarderów)
@@ -282,12 +284,29 @@ Kolejną czynnikiem różnicującym jest **wiek**. Mediana wieku wszystkich mili
     </a>
 </p>
 
+Zamiast uśrednionych wskaźników, **poniższa wizualizacja przedstawia każdą osobę z listy Forbes jako pojedynczy punkt**, z podziałem na branżę, wiek i płeć. Dzięki temu można dostrzec realny rozkład, zagęszczenia, wyjątki oraz proporcje kobiet i mężczyzn w pięciu największych sektorach.
+
+* **Finanse i inwestycje** - branża z największą liczbą miliarderów, w której kobiety stanowią jedynie 8,6% wszystkich przedstawicieli.
+* **Technologia** - najmłodszy sektor, z przeciętnym wiekiem wynoszącym 56 lat. Aż 92% osób z tej branży zbudowało swój majątek samodzielnie.
+* **Produkcja** - branża z największą liczbą miliarderek (52 kobiety, 16,5% udziału). Dominuje tu pochodzenie azjatyckie, a przeciętny majątek jest najniższy spośród wszystkich sektorów.
+* **Moda i handel detaliczny** - branża silnie europejska, z przewagą majątków dziedziczonych (42%).
+* **Żywność i napoje** - sektor z najwyższym udziałem kobiet (22%) i znacznym odsetkiem fortun pochodzących z dziedziczenia (49%).
+
+**Jeśli chcesz przyjrzeć się danym bliżej, zapraszam do [interaktywnej wersji wizualizacji](https://public.flourish.studio/visualisation/23240788/)**. Możesz tam filtrować osoby według poziomu majątku oraz sprawdzić szczegółowe informacje o każdej z nich - imię i nazwisko, kraj pochodzenia, wartość i źródło majątku oraz miejsce zamieszkania.
+
+<p align="center">
+    <a>
+        <img src="assets/23 - Miliarderzy - beeswarm.png" width="700">
+    </a>
+</p>
+
+
 **Rozkład geograficzny** również ujawnia ciekawe zależności.
 
 Różne części świata specjalizują się w odmiennych gałęziach biznesu:
-* **Azja dominuje w produkcji** – aż 60,8% miliarderów z tej branży pochodzi z tego kontynentu.
-* **Europa to głównie moda i handel detaliczny** – 37,3% osób działających w tej branży to europejczycy.
-* **Ameryka Północna skupia się na finansach (26,4%) oraz technologii (18,6%)** – dwóch sektorach, które jednocześnie odpowiadają za największy łączny majątek na świecie.
+* **Azja dominuje w produkcji** - aż 60,8% miliarderów z tej branży pochodzi z tego kontynentu.
+* **Europa to głównie moda i handel detaliczny** - 37,3% osób działających w tej branży to europejczycy.
+* **Ameryka Północna skupia się na finansach (26,4%) oraz technologii (18,6%)** - dwóch sektorach, które jednocześnie odpowiadają za największy łączny majątek na świecie.
 
 Na poziomie **krajów** (analizując 17 państw z największą liczbą miliarderów) wyraźnie widać lokalne specjalizacje:
 * USA, Wielka Brytania i Brazylia - dominują finanse i inwestycje,
