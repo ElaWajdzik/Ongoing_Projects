@@ -8,7 +8,10 @@ Podstawowym celem tego działania jest rozwój w obszarze eksplanacyjnych wizual
 Spis treści:
 1. Wykres 1-4: [Populacja i powierzchnia największych miast Polski w latach 1939 a 2023.](https://github.com/ElaWajdzik/Ongoing_Projects/blob/main/%2352wykresy2025/01%20-%20polskie%20miasta.md)
 2. Wykres 5-11: [Samobójstwa w Polsce – jak zmieniała się sytuacja w latach 1999–2024?](https://github.com/ElaWajdzik/Ongoing_Projects/blob/main/%2352wykresy2025/02%20-%20samob%C3%B3jstwa.md)
-3. Wykresy 12-x :
+3. Wykresy 12-23 : [Miliarderzy w liczbach. Kim są najbogatsi ludzie świata?](https://github.com/ElaWajdzik/Ongoing_Projects/blob/main/%2352wykresy2025/03%20-%20miliarderzy%20Forebs.md)
+
+
+4. Wykresy 24-x :
 
 <br> 
 
