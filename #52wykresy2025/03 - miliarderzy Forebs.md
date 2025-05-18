@@ -350,6 +350,31 @@ Na poziomie **krajów** (analizując 17 państw z największą liczbą miliarder
 
 ## Dalsze kroki
 
+Powyższa analiza opiera się na danych z listy Forbes z jednego momentu w czasie (stan na 10.04.2025), ale **wiele ważnych pytań wciąż pozostaje otwartych**. By je pogłębić, warto rozważyć rozszerzenie zbioru danych zarówno o informacje historyczne, jak i o dodatkowe wskaźniki makroekonomiczne.
+
+* **Jak zmienia się lista miliarderów w czasie?** <br>
+Czy jako globalne społeczeństwo bogacimy się coraz bardziej? A może lista odzwierciedla rosnącą koncentrację majątku w rękach nielicznych? Analiza porównawcza rok do roku pozwoliłaby zaobserwować wpływ takich zjawisk jak pandemia COVID-19, wojna w Ukrainie czy rozwój nowych technologii na liczbę miliarderów i ich łączny majątek.
+
+* **W jakim wieku miliarderzy trafiają na listę?** <br> 
+Czy można wyznaczyć „moment przełomowy” w karierze, który prowadzi do ekstremalnego bogactwa? Jak długa i stroma jest ścieżka do miliarda — i czy różni się w zależności od płci, branży lub regionu?
+
+* **Kobiety na liście , czy ich udział rośnie?** <br>
+Czy w ostatnich latach zwiększa się liczba miliarderek - zwłaszcza tych, które zbudowały majątek samodzielnie? Czy zmienia się branżowy i geograficzny rozkład ich obecności?
+
+* **Emigracja: przed czy po zdobyciu miliarda?** <br>
+W analizie zauważalna była znaczna migracja do Szwajcarii, Hongkongu, Singapuru czy Monako. Ale czy miliarderzy przenoszą się tam po osiągnięciu majątku (np. ze względów podatkowych), czy może te miejsca rzeczywiście sprzyjają budowaniu fortun?
+
+* **Jakie znaczenie mają warunki makroekonomiczne kraju pochodzenia?** <br>
+Dodanie wskaźników takich jak poziom edukacji, długość życia, inflacja, system podatkowy czy PKB pozwoliłoby zbadać, czy istnieje zależność między warunkami społeczno-ekonomicznymi a prawdopodobieństwem znalezienia się na liście Forbes. Kilka możliwych kierunków analizy:
+    * Czy wyższy poziom edukacji przekłada się na większy odsetek self-made miliarderów?
+    * Czy bogatsze kraje „produkują” więcej miliarderów - czy raczej tylko kumulują majątek?
+    * Czy wysokie podatki lub inflacja wpływają na strukturę fortun lub decyzje migracyjne?
+
+
+
+
+
+
 
 
 <br></br>
