@@ -11,6 +11,11 @@ Spis treście:
 
 <br>
 
+📌
+*Uwaga:* Dane do analizy zostały samodzielnie pobrane za pomocą publicznego API Forbes. [Szczegółowy opis procesu pobierania i przygotowania danych.](https://github.com/ElaWajdzik/Ongoing_Projects/blob/main/Jupyter%20Notebook/Miliarderzy%20Forbes.ipynb)
+
+<br>
+
 ### Wprowadzanie
 
 Na świecie żyje ponad 8 miliardów ludzi. Jak wynika z raportu [Global Wealth Report 2024](https://www.ubs.com/us/en/wealth-management/insights/global-wealth-report.html), łącznie dysponujemy majątkiem bliskim **488 bilionów dolarów** (czyli około **1,95 biliarda złotych**).
