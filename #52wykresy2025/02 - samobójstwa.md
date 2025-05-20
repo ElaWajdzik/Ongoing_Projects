@@ -253,8 +253,7 @@ Poniższa mapa przedstawia **współczynnik samobójstw dla całej populacji**, 
 
 Dziękuję za Twoją uwagę! 🫶️
 
-<!--
-[Kolejny temat ➔ *Samobójstwa w Polsce – jak zmieniała się sytuacja w latach 1999–2024?*]()
--->
+[Kolejny temat ➔ *Miliarderzy w liczbach. Kim są najbogatsi ludzie świata?*](https://github.com/ElaWajdzik/Ongoing_Projects/blob/main/%2352wykresy2025/03%20-%20miliarderzy%20Forbes.md)
+
 
 [Powrót do README #52wykresy2025](https://github.com/ElaWajdzik/Ongoing_Projects/tree/main/%2352wykresy2025)
