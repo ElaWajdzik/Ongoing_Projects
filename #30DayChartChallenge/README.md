@@ -6,7 +6,7 @@ Wyzwanie polega na codziennym tworzeniu wykresów przez cały kwiecień – każ
 
 <br>
 
-<img src="assets/prompts.png">
+<img src="assets/prompts.png" width="600">
 
 
 ## Comparisons
@@ -29,7 +29,7 @@ Wyzwanie polega na codziennym tworzeniu wykresów przez cały kwiecień – każ
 
 <img src="assets/04 - big or small - telewizor.png" width="400">
 
-### 05. Ranking - publikacja na LinkedIn - [publikacja na LinkedIn](https://www.linkedin.com/posts/elawajdzik_30daychartchallenge-30daychartchallenge-activity-7315003857669906433-GfsT?utm_source=share&utm_medium=member_desktop&rcm=ACoAAB10KNkBVe7JKEYQe4mSn2EJDNtQzrwtILg)
+### 05. Ranking -[publikacja na LinkedIn](https://www.linkedin.com/posts/elawajdzik_30daychartchallenge-30daychartchallenge-activity-7315003857669906433-GfsT?utm_source=share&utm_medium=member_desktop&rcm=ACoAAB10KNkBVe7JKEYQe4mSn2EJDNtQzrwtILg)
 
 <img src="assets/05 - ranking - NATO PKB.png" width="400">
 
