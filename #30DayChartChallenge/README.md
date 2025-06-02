@@ -8,6 +8,19 @@ Wyzwanie polega na codziennym tworzeniu wykresów przez cały kwiecień – każ
 
 <img src="assets/prompts.png" width="600">
 
+<br> 
+
+| Comparisons                           | Distributions        | Relationships         | Timeseries            | Uncertainties                       |
+|---------------------------------------|----------------------|------------------------|------------------------|-------------------------------------|
+| [01. Fractions <br> <img src="assets/01 - fractions - NATO.png">](#01-fractions---publikacja-na-linkedin)   | 07. Outliers         | 13. Clusters           | 19. Smooth             | 25. Risk                            |
+| [02. Slope <img src="assets/02 - slope - ed typy szkół.png">](#02-slope---publikacja-na-linkedin) | 08. Histogram        | 14. Kinship            | 20. Urbanization       | 26. Monochrome                      |
+| [03. Circular <img src="assets/03 - circular - języki mniejszości.png">](#03-circular---publikacja-na-linkedin) | 09. Diverging        | 15. Complicated        | 21. Fossils            | 27. Noise                           |
+| [04. Big or Small <img src="assets/04 - big or small - telewizor.png">](#04-big-or-small---publikacja-na-linkedin) | 10. Multi-modal      | 16. Negative           | 22. Stars              | 28. Inclusion                       |
+| [05. Ranking <img src="assets/05 - ranking - NATO PKB.png">](#05-ranking---publikacja-na-linkedin) | 11. Stripes          | 17. Birds              | 23. Log Scale          | 29. Extraterrestrial                |
+| [06. Florence Nightingale (theme) <img src="assets/06 - florence nightingale - krztusiec.png">](#06-theme-day-florence-nightingale---publikacja-na-linkedin)     | 12. Data.gov (data)  | 18. El Pais (theme)    | 24. World Health Organization (data) | 30. National Geographic (theme) |
+
+
+<br>
 
 ## Comparisons
 
@@ -29,7 +42,7 @@ Wyzwanie polega na codziennym tworzeniu wykresów przez cały kwiecień – każ
 
 <img src="assets/04 - big or small - telewizor.png" width="400">
 
-### 05. Ranking -[publikacja na LinkedIn](https://www.linkedin.com/posts/elawajdzik_30daychartchallenge-30daychartchallenge-activity-7315003857669906433-GfsT?utm_source=share&utm_medium=member_desktop&rcm=ACoAAB10KNkBVe7JKEYQe4mSn2EJDNtQzrwtILg)
+### 05. Ranking - [publikacja na LinkedIn](https://www.linkedin.com/posts/elawajdzik_30daychartchallenge-30daychartchallenge-activity-7315003857669906433-GfsT?utm_source=share&utm_medium=member_desktop&rcm=ACoAAB10KNkBVe7JKEYQe4mSn2EJDNtQzrwtILg)
 
 <img src="assets/05 - ranking - NATO PKB.png" width="400">
 
