@@ -1,5 +1,6 @@
 # Week 2 - Distributions
-Drugi tydzień wyzwania #30DayChartChallenge 
+
+Drugi tydzień wyzwania [#30DayChartChallenge](https://github.com/30DayChartChallenge/Edition2025) poświęcony był dystrybucjom - jednemu z kluczowych aspektów analizy danych. Rozkłady pozwalają zrozumieć, jak wartości są rozmieszczone, gdzie występują koncentracje, a gdzie odstępstwa od normy. Każdy z tematów w tym tygodniu stanowił pretekst do zgłębienia różnych sposobów prezentowania zmienności i struktury danych. Eksperymentowałam z formą i interpretacją, starając się uchwycić nie tylko liczby, ale i ukryte w nich wzorce. To był tydzień szukania balansu między precyzją a narracją wizualną.
 
 
 <br>
@@ -160,9 +161,39 @@ Typ wykresu: Heatmapa z linią trendu<br>
 
 
 <img src="assets/11 - stripes - cena mieszkań w Krakowie.png" width="400">
+<br>
+<br>
 
-### 12. Data.gov (data) - [publikacja na LinkedIn]()
 
+Aby lepiej zobrazować zmiany na rynku mieszkaniowym w Krakowie na przestrzeni czasu, przygotowałam dodatkową wizualizację przedstawiającą, jaką powierzchnię mieszkania można było kupić za przeciętne wynagrodzenie.
+
+W analizowanym okresie maksymalna możliwa do nabycia powierzchnia wynosiła 0,62 m², a minimalna 0,49 m². W porównaniu do obecnego poziomu oznacza to odchylenie odpowiednio o +6,9% i -15,5%.
+
+<img src="assets/11 - stripes - uzupełnienie.png" width="400">
+
+### 12. Data.gov (data) - [publikacja na LinkedIn](https://www.linkedin.com/posts/elawajdzik_30daychartchallenge-activity-7331293227884417025-MCQr?utm_source=share&utm_medium=member_desktop&rcm=ACoAAB10KNkBVe7JKEYQe4mSn2EJDNtQzrwtILg)
+
+Czy uczyłeś się w szkole języka niemieckiego? Sprichst du Deutsch?
+
+W dzisiejszej wizualizacji przyglądam się danym Ministerstwa Edukacji Narodowej dotyczącym nauczania języka niemieckiego w szkołach ponadpodstawowych w roku szkolnym 2023/2024.
+
+Język niemiecki to drugi najczęściej nauczany język obcy w polskich szkołach średnich, tuż po angielskim. Według danych, aż 65% uczniów (czyli 1,16 mln osób) uczęszcza na lekcje niemieckiego.
+
+📌 Co mnie zaskoczyło najbardziej?
+* Aż 9 na 10 uczniów techników w Polsce uczy się języka niemieckiego.
+* W aż 167 powiatach wszyscy uczniowie techników uczą się niemieckiego - 100% pokrycia!
+
+Inne, bardziej intuicyjne obserwacje:
+* Im bliżej granicy z Niemcami, tym większy odsetek uczniów uczących się niemieckiego (język ten obecny jest nawet w przedszkolach).
+* W szkołach branżowych niemieckiego uczy się tylko 19% uczniów - znacznie mniej niż w liceach czy technikach.
+
+Jeśli chcesz przyjrzeć się kartogramowi dokładniej, zapraszam do [wersji interaktywnej](https://public.flourish.studio/visualisation/22152374/).
+
+Narzędzia: Flourish, Canva<br>
+Typ wykresu: Kartogram + skala kolorów w postaci histogramu
 
 
 <img src="assets/12- data.gov - język niemiecki.png" width="400">
+
+
+<br>
