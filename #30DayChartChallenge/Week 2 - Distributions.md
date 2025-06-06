@@ -196,4 +196,14 @@ Typ wykresu: Kartogram + skala kolorów w postaci histogramu
 <img src="assets/12- data.gov - język niemiecki.png" width="400">
 
 
-<br>
+<br></br>
+***
+
+Dziękuję za Twoją uwagę! 🫶️
+
+<!--
+[Kolejny temat ➔ *Relationships*]()
+-->
+
+[Powrót do README #30DayChartChallenge](https://github.com/ElaWajdzik/Ongoing_Projects/blob/main/%2330DayChartChallenge/README.md)
+

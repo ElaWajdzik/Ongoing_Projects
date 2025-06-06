@@ -134,3 +134,12 @@ Typ wizualizacji: Polar Area Chart, Wykres słupkowy
 <img src="assets/06 - florence nightingale - krztusiec wykres słupkowy.png" width="400">
 
 
+<br></br>
+***
+
+Dziękuję za Twoją uwagę! 🫶️
+
+[Kolejny temat ➔ *Distributions*](https://github.com/ElaWajdzik/Ongoing_Projects/blob/main/%2330DayChartChallenge/Week%202%20-%20Distributions.md)
+
+
+[Powrót do README #30DayChartChallenge](https://github.com/ElaWajdzik/Ongoing_Projects/blob/main/%2330DayChartChallenge/README.md)
