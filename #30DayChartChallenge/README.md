@@ -8,3 +8,20 @@ Wyzwanie polega na codziennym tworzeniu wykresów przez cały kwiecień – każ
 
 <img src="assets/prompts.png" width="600">
 
+<br>
+
+* Comparisons → [zobacz wizualizacje](https://github.com/ElaWajdzik/Ongoing_Projects/blob/main/%2330DayChartChallenge/Week%201%20-%20Comparisons.md) 
+* Distributions → [zobacz wizualizacje](https://github.com/ElaWajdzik/Ongoing_Projects/blob/main/%2330DayChartChallenge/Week%202%20-%20Distributions.md)
+* Relationships
+* Timeseries
+* Uncertainties
+
+<br> 
+
+*** 
+
+ # <p align="center"> Dziękuję za Twoją uwagę! 🫶️
+
+**Dziękuję za przeczytanie.** Jeśli masz jakieś uwagi dotyczące mojej pracy, daj mi znać. Mój adres e-mail to ela.wajdzik@gmail.com.
+
+***
