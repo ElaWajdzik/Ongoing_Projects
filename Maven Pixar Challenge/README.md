@@ -3,9 +3,10 @@ Use data visualization and storytelling to showcase the legacy of Disney Pixar f
 
 <p align="center">
     <a href="https://app.powerbi.com/view?r=eyJrIjoiNGQwZmMwZTAtNTk0OS00MjNjLWI4NDItOTg3N2NiYTI0MGQwIiwidCI6IjNkZmU5YWI2LTgxYmYtNDkxYy1iNjcwLTAxYzgyNGEwOWUxOSJ9">
-        <img src="assets/home.png" width="600">
+        <img src="assets/home.png" style="width: 80%">
     </a>
 </p>
+<br> 
 
 <div style="display: flex; justify-content: space-around; align-items: center; gap: 20px;">
 
