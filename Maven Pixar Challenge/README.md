@@ -8,17 +8,17 @@ Use data visualization and storytelling to showcase the legacy of Disney Pixar f
 
 <br> 
 
-<div style="display: flex; justify-content: space-around; align-items: center; gap: 20px;">
+<div align="center" style="display: flex; justify-content: space-around; align-items: center; gap: 20px;">
 
-  <img src="assets/3.jpg" alt="Grafika 1" style="width: 40%; border: 1px solid #ccc; border-radius: 8px;">
-  <img src="assets/4.jpg" alt="Grafika 2" style="width: 40%; border: 1px solid #ccc; border-radius: 8px;">
+  <img src="assets/3.jpg" alt="Grafika 1" style="width: 35%; border: 1px solid #ccc; border-radius: 8px;">
+  <img src="assets/4.jpg" alt="Grafika 2" style="width: 35%; border: 1px solid #ccc; border-radius: 8px;">
 
 </div>
 <br>
-<div style="display: flex; justify-content: space-around; align-items: center; gap: 20px;">
+<div align="center" style="display: flex; justify-content: space-around; align-items: center; gap: 20px;">
 
-  <img src="assets/5.jpg" alt="Grafika 3" style="width: 40%; border: 1px solid #ccc; border-radius: 8px;">
-  <img src="assets/6.jpg" alt="Grafika 2" style="width: 40%; border: 1px solid #ccc; border-radius: 8px;">
+  <img src="assets/5.jpg" alt="Grafika 3" style="width: 35%; border: 1px solid #ccc; border-radius: 8px;">
+  <img src="assets/6.jpg" alt="Grafika 2" style="width: 35%; border: 1px solid #ccc; border-radius: 8px;">
 
 </div>
 </p>
