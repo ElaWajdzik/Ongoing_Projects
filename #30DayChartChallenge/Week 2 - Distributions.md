@@ -201,9 +201,9 @@ Typ wykresu: Kartogram + skala kolorów w postaci histogramu
 
 Dziękuję za Twoją uwagę! 🫶️
 
-<!--
-[Kolejny temat ➔ *Relationships*]()
--->
+
+[Kolejny temat ➔ *Relationships*](https://github.com/ElaWajdzik/Ongoing_Projects/blob/main/%2330DayChartChallenge/Week%203%20-%20Relationships.md)
+
 
 [Powrót do README #30DayChartChallenge](https://github.com/ElaWajdzik/Ongoing_Projects/blob/main/%2330DayChartChallenge/README.md)
 
