@@ -1,5 +1,7 @@
 # Maven Pixar Challenge
-Use data visualization and storytelling to showcase the legacy of Disney Pixar films over time.
+Use data visualization and storytelling to showcase the legacy of Disney Pixar films over time. 
+
+[Power BI Dashboard](https://app.powerbi.com/view?r=eyJrIjoiNGQwZmMwZTAtNTk0OS00MjNjLWI4NDItOTg3N2NiYTI0MGQwIiwidCI6IjNkZmU5YWI2LTgxYmYtNDkxYy1iNjcwLTAxYzgyNGEwOWUxOSJ9)
 
 <p align="center">
     <a href="https://app.powerbi.com/view?r=eyJrIjoiNGQwZmMwZTAtNTk0OS00MjNjLWI4NDItOTg3N2NiYTI0MGQwIiwidCI6IjNkZmU5YWI2LTgxYmYtNDkxYy1iNjcwLTAxYzgyNGEwOWUxOSJ9">
