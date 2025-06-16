@@ -8,6 +8,7 @@ Projekt | opis
 [#52wykresy2025](https://github.com/ElaWajdzik/Ongoing_Projects/tree/main/%2352wykresy2025) | [Samobójstwa w Polsce – jak zmieniała się sytuacja w latach 1999–2024?](https://github.com/ElaWajdzik/Ongoing_Projects/blob/main/%2352wykresy2025/02%20-%20samob%C3%B3jstwa.md)
 [#52wykresy2025](https://github.com/ElaWajdzik/Ongoing_Projects/tree/main/%2352wykresy2025) | [Miliarderzy w liczbach. Kim są najbogatsi ludzie świata?](https://github.com/ElaWajdzik/Ongoing_Projects/blob/main/%2352wykresy2025/03%20-%20miliarderzy%20Forbes.md)
 [#30DayChartChallenge](https://github.com/ElaWajdzik/Ongoing_Projects/tree/main/%2330DayChartChallenge) | [Week 1 - Comparisons](https://github.com/ElaWajdzik/Ongoing_Projects/blob/main/%2330DayChartChallenge/Week%201%20-%20Comparisons.md)
+[#30DayChartChallenge](https://github.com/ElaWajdzik/Ongoing_Projects/tree/main/%2330DayChartChallenge) | [Week 2 - Distributions ](https://github.com/ElaWajdzik/Ongoing_Projects/blob/main/%2330DayChartChallenge/Week%202%20-%20Distributions.md)
 
 
 
