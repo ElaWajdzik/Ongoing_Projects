@@ -9,6 +9,4 @@ Projekt | opis
 [#52wykresy2025](https://github.com/ElaWajdzik/Ongoing_Projects/tree/main/%2352wykresy2025) | [Miliarderzy w liczbach. Kim są najbogatsi ludzie świata?](https://github.com/ElaWajdzik/Ongoing_Projects/blob/main/%2352wykresy2025/03%20-%20miliarderzy%20Forbes.md)
 [#30DayChartChallenge](https://github.com/ElaWajdzik/Ongoing_Projects/tree/main/%2330DayChartChallenge) | [Week 1 - Comparisons](https://github.com/ElaWajdzik/Ongoing_Projects/blob/main/%2330DayChartChallenge/Week%201%20-%20Comparisons.md)
 [#30DayChartChallenge](https://github.com/ElaWajdzik/Ongoing_Projects/tree/main/%2330DayChartChallenge) | [Week 2 - Distributions ](https://github.com/ElaWajdzik/Ongoing_Projects/blob/main/%2330DayChartChallenge/Week%202%20-%20Distributions.md)
-
-
-
+[#30DayChartChallenge](https://github.com/ElaWajdzik/Ongoing_Projects/tree/main/%2330DayChartChallenge) | [Week 3 - Relationships](https://github.com/ElaWajdzik/Ongoing_Projects/blob/main/%2330DayChartChallenge/Week%203%20-%20Relationships.md)
