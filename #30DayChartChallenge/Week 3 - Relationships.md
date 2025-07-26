@@ -4,8 +4,8 @@
 
 | Relationships                          |         |          | 
 |---------------------------------------|---------|----------|
-| [13. clusters <br> <img src="assets/13 - clusters - PKB vs długość życia.png" width="200">](#13-clusters---publikacja-na-linkedin)  | [14. Kinship <br> <img src="" width="200">](#14-kinship---publikacja-na-linkedin) | [15. Complicated <br> <img src="" width="200">](#15-complicated---publikacja-na-linkedin) |
-|[16. Negative <br> <img src="" width="200">](#16-negative---publikacja-na-linkedin)| [17. Birds <br> <img src="" width="200">](#17-birds---publikacja-na-linkedin) | [18. El País (theme day) <br> <img src="" width="200">](#18-el-país-theme-day---publikacja-na-linkedin) |
+| [13. clusters <br> <img src="assets/13 - clusters - PKB vs długość życia.png" width="200">](#13-clusters---publikacja-na-linkedin)  | [14. Kinship <br>](#14-kinship---publikacja-na-linkedin) | [15. Complicated <br>](#15-complicated---publikacja-na-linkedin) |
+|[16. Negative <br> ](#16-negative---publikacja-na-linkedin)| [17. Birds <br>](#17-birds---publikacja-na-linkedin) | [18. El País (theme day) <br>](#18-el-país-theme-day---publikacja-na-linkedin) |
 
 <br>
 
@@ -45,23 +45,23 @@ Dodatkowo wizualizacja umożliwia bezpośrednie porównanie danych z różnych k
 
 ### 14. Kinship - [publikacja na LinkedIn]()
 
-<img src="" width="400">
+...
 
 ### 15. Complicated - [publikacja na LinkedIn]()
 
-<img src="" width="400">
+...
 
 ### 16. Negative - [publikacja na LinkedIn]()
 
-<img src="" width="400">
+...
 
 ### 17. Birds - [publikacja na LinkedIn]()
 
-<img src="" width="400">
+...
 
 ### 18. El País (theme day) - [publikacja na LinkedIn]()
 
-<img src="" width="400">
+...
 
 
 <br></br>
@@ -71,7 +71,8 @@ Dziękuję za Twoją uwagę! 🫶️
 
 <!--
 [Kolejny temat ➔ *Timeseries*]()
--->
+
 
 [Powrót do README #30DayChartChallenge](https://github.com/ElaWajdzik/Ongoing_Projects/blob/main/%2330DayChartChallenge/README.md)
 
+-->
