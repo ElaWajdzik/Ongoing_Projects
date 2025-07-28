@@ -71,8 +71,7 @@ Dziękuję za Twoją uwagę! 🫶️
 
 <!--
 [Kolejny temat ➔ *Timeseries*]()
-
+-->
 
 [Powrót do README #30DayChartChallenge](https://github.com/ElaWajdzik/Ongoing_Projects/blob/main/%2330DayChartChallenge/README.md)
 
--->
