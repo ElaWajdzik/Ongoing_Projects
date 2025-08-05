@@ -43,7 +43,30 @@ Dodatkowo wizualizacja umożliwia bezpośrednie porównanie danych z różnych k
 <img src="assets/13 - clusters - PKB vs długość życia - kontynenty.png" width="400">
 
 
-### 14. Kinship - [publikacja na LinkedIn]()
+### 14. Kinship - [publikacja na LinkedIn](https://www.linkedin.com/posts/elawajdzik_30daychartchallenge-activity-7358458353791971331-NzN1?utm_source=share&utm_medium=member_desktop&rcm=ACoAAB10KNkBVe7JKEYQe4mSn2EJDNtQzrwtILg)
+
+Dlaczego chłopcy zostają informatykami, a dziewczęta techniczkami żywienia? 
+
+Dzisiejsza wizualizacja przybliża temat tytułów zawodowych wśród polskiej młodzieży. Dane pochodzą z Ministerstwa Edukacji Narodowej i przedstawiają informacje o tytułach zawodowych uzyskanych przez absolwentki i absolwentów w roku szkolnym 2023/24.
+
+📌 Co szczególnie interesujące - wybór zawodu wciąż silnie zależy od płci.
+
+Wśród chłopców najwięcej osób uzyskało tytuł technika informatyka, mechanika pojazdów samochodowych oraz technika logistyka. Z kolei wśród dziewcząt najczęściej zdobywanymi tytułami były: technik żywienia i usług gastronomicznych, technik ekonomista oraz fryzjerka.
+
+Dodatkowe informacje z danych:
+* Technikum cieszy się znacznie większą popularnością niż szkoła branżowa - niezależnie od płci.
+* Chłopcy dwukrotnie częściej wybierają szkoły zawodowe niż dziewczęta.
+* Zdecydowana większość uczniów szkół zawodowych kończy je z tytułem zawodowym - 99% w technikum i 93% w szkołach branżowych I stopnia.
+* Co piętnasty absolwent ukończył szkołę prywatną.
+* Uczniowie techników mieli do wyboru 94 kierunki, a szkół branżowych - 77.
+
+[Zapraszam również do interaktywnej wersji wizualizacji](https://public.flourish.studio/visualisation/24549186/)
+
+Narzędzie: Flourish
+
+Typ wykresu: Sunburs
+
+<img src="assets/14 - kinship - Tytuły zawodowe.png" width="400">
 
 ...
 
