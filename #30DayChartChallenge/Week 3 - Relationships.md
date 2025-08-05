@@ -4,7 +4,7 @@
 
 | Relationships                          |         |          | 
 |---------------------------------------|---------|----------|
-| [13. clusters <br> <img src="assets/13 - clusters - PKB vs długość życia.png" width="200">](#13-clusters---publikacja-na-linkedin)  | [14. Kinship <br>](#14-kinship---publikacja-na-linkedin) | [15. Complicated <br>](#15-complicated---publikacja-na-linkedin) |
+| [13. clusters <br> <img src="assets/13 - clusters - PKB vs długość życia.png" width="200">](#13-clusters---publikacja-na-linkedin)  | [14. Kinship <br> <img src="assets/14 - kinship - Tytuły zawodowe.png" width="200">](#14-kinship---publikacja-na-linkedin) | [15. Complicated <br>](#15-complicated---publikacja-na-linkedin) |
 |[16. Negative <br> ](#16-negative---publikacja-na-linkedin)| [17. Birds <br>](#17-birds---publikacja-na-linkedin) | [18. El País (theme day) <br>](#18-el-país-theme-day---publikacja-na-linkedin) |
 
 <br>
@@ -68,7 +68,7 @@ Typ wykresu: Sunburs
 
 <img src="assets/14 - kinship - Tytuły zawodowe.png" width="400">
 
-...
+
 
 ### 15. Complicated - [publikacja na LinkedIn]()
 
