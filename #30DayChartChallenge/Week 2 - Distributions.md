@@ -7,8 +7,8 @@ Drugi tydzień wyzwania [#30DayChartChallenge](https://github.com/30DayChartChal
 
 | Distributions                          |         |          | 
 |---------------------------------------|---------|----------|
-| [07. Outliers <br> <img src="assets/07 - outliers - IMGW.png" width="200">](#07-outliers---publikacja-na-linkedin)  | [08. Histogram <br> <img src="assets/08 - histogram - żywe urodzenia.png" width="200">](#08-histogram---publikacja-na-linkedin)  | [09. Diverging <br> <img src="assets/09 - diverging - bezrobocie UE.png" width="200">](#09-diverging---publikacja-na-linkedin)  |
-| [10. Multi-modal <br> <img src="assets/10 - multi-modal - wiek miliarderów.png" width="200">](#10-multi-modal---publikacja-na-linkedin)  | [11. Stripes <br> <img src="assets/11 - stripes - cena mieszkań w Krakowie.png" width="200">](#11-stripes---publikacja-na-linkedin)  | [12. Data.gov (data) <br> <img src="assets/12- data.gov - język niemiecki.png" width="200">](#12-datagov-data---publikacja-na-linkedin) |
+| [07. Outliers <br> <img src="assets/07 - outliers - IMGW.png" width="250">](#07-outliers---publikacja-na-linkedin)  | [08. Histogram <br> <img src="assets/08 - histogram - żywe urodzenia.png" width="300">](#08-histogram---publikacja-na-linkedin)  | [09. Diverging <br> <img src="assets/09 - diverging - bezrobocie UE.png" width="200">](#09-diverging---publikacja-na-linkedin)  |
+| [10. Multi-modal <br> <img src="assets/10 - multi-modal - wiek miliarderów.png" width="250">](#10-multi-modal---publikacja-na-linkedin)  | [11. Stripes <br> <img src="assets/11 - stripes - cena mieszkań w Krakowie.png" width="300">](#11-stripes---publikacja-na-linkedin)  | [12. Data.gov (data) <br> <img src="assets/12- data.gov - język niemiecki.png" width="300">](#12-datagov-data---publikacja-na-linkedin) |
 
 
 <br>
