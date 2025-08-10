@@ -12,7 +12,7 @@
 
 ## Relationships 
 
-### 13. Clusters - [publikacja na LinkedIn](https://www.linkedin.com/posts/elawajdzik_30daychartchallenge-activity-7337783996396765186-KXme?utm_source=share&utm_medium=member_desktop&rcm=ACoAAB10KNkBVe7JKEYQe4mSn2EJDNtQzrwtILg)
+### 13. Clusters - [publikacja na LinkedIn](https://www.linkedin.com/posts/elawajdzik_30daychartchallenge-activity-7337783996396765186-KXme)
 
 Jak długo będziemy żyć? I jak rozwój gospodarczy wpływa na długość życia obywateli?
 
@@ -34,17 +34,17 @@ Narzędzie: Flourish <br>
 Typ wykresu: Bubble chart
 
 
-<img src="assets/13 - clusters - PKB vs długość życia.png" width="400">
+<img src="assets/13 - clusters - PKB vs długość życia.png" width="500">
 
 <br>
 Dodatkowo wizualizacja umożliwia bezpośrednie porównanie danych z różnych kontynentów na jednym widoku.
 
 <br>
 
-<img src="assets/13 - clusters - PKB vs długość życia - kontynenty.png" width="400">
+<img src="assets/13 - clusters - PKB vs długość życia - kontynenty.png" width="500">
 
 
-### 14. Kinship - [publikacja na LinkedIn](https://www.linkedin.com/posts/elawajdzik_30daychartchallenge-activity-7358458353791971331-NzN1?utm_source=share&utm_medium=member_desktop&rcm=ACoAAB10KNkBVe7JKEYQe4mSn2EJDNtQzrwtILg)
+### 14. Kinship - [publikacja na LinkedIn](https://www.linkedin.com/posts/elawajdzik_30daychartchallenge-activity-7358458353791971331-NzN1)
 
 Dlaczego chłopcy zostają informatykami, a dziewczęta techniczkami żywienia? 
 
@@ -67,13 +67,33 @@ Narzędzie: Flourish
 
 Typ wykresu: Sunburs
 
-<img src="assets/14 - kinship - Tytuły zawodowe.png" width="400">
+<img src="assets/14 - kinship - Tytuły zawodowe.png" width="500">
 
 
 
-### 15. Complicated - [publikacja na LinkedIn]()
+### 15. Complicated - [publikacja na LinkedIn](https://www.linkedin.com/posts/elawajdzik_30daychartchallenge-activity-7359501628137267201-mULc)
 
-...
+Które podatki płacisz na co dzień - VAT, PIT, CIT… a może żaden?
+
+Dzisiejszy temat „to skomplikowane” skłonił mnie do refleksji o kraju, w którym żyjemy, i o tym, jak zarządza się publicznymi pieniędzmi.
+
+W badaniu [„Czego Polacy nie wiedzą o podatkach?”](http://podatkiminus.pl/download/badanie-czego-polacy-nie-wiedza-o-podatkach.pdf) z 2017 r. aż 21% Polaków uważało, że nie płaci żadnych podatków, a 58% twierdziło, że nie płaci VAT-u. Tymczasem VAT jest wbudowany w większość naszych codziennych wydatków - od zakupów spożywczych po usługi.
+
+📌Nawet jeśli nie interesujemy się podatkami, to one interesują się nami.
+
+W 2024 r. dochody z VAT-u pokryły aż 34% wszystkich wydatków BUDŻETU państwa. To najpotężniejsze źródło finansowania w budżecie, a mimo to jeszcze niedawno ponad połowa z nas twierdziła, że go nie płaci. Czy dzisiaj świadomość podatkowa Polaków jest większa?
+
+Na wizualizacji przedstawiłam przepływy finansowe do i z budżetu państwa w 2024 roku.
+
+Kilka faktów z danych:
+● Dochody BUDŻETU państwa pokryły jedynie 75% wydatków - reszta to deficyt.
+● 3 kategorie (ubezpieczenia społeczne, różne rozliczenia, obrona narodowa) pochłonęły w 2024 roku połowę wydatków BUDŻETU krajowych.
+● Dochody z akcyzy były porównywalne z wpływami z PIT-u.
+
+Narzędzia: SankeyArt, Canva 
+Typ wizualizacji: Sankey
+
+<img src="assets/15 - complicated - budżet państwa 2024.png" width="500">
 
 ### 16. Negative - [publikacja na LinkedIn]()
 
