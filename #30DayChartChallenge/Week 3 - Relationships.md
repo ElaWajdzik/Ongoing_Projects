@@ -86,11 +86,13 @@ W 2024 r. dochody z VAT-u pokryły aż 34% wszystkich wydatków BUDŻETU państw
 Na wizualizacji przedstawiłam przepływy finansowe do i z budżetu państwa w 2024 roku.
 
 Kilka faktów z danych:
-● Dochody BUDŻETU państwa pokryły jedynie 75% wydatków - reszta to deficyt.
-● 3 kategorie (ubezpieczenia społeczne, różne rozliczenia, obrona narodowa) pochłonęły w 2024 roku połowę wydatków BUDŻETU krajowych.
-● Dochody z akcyzy były porównywalne z wpływami z PIT-u.
+* Dochody BUDŻETU państwa pokryły jedynie 75% wydatków - reszta to deficyt.
+* 3 kategorie (ubezpieczenia społeczne, różne rozliczenia, obrona narodowa) pochłonęły w 2024 roku połowę wydatków BUDŻETU krajowych.
+* Dochody z akcyzy były porównywalne z wpływami z PIT-u.
+
 
 Narzędzia: SankeyArt, Canva 
+
 Typ wizualizacji: Sankey
 
 <img src="assets/15 - complicated - budżet państwa 2024.png" width="500">
