@@ -12,7 +12,7 @@ Wyzwanie polega na codziennym tworzeniu wykresów przez cały kwiecień – każ
 
 * Comparisons → [zobacz wizualizacje](https://github.com/ElaWajdzik/Ongoing_Projects/blob/main/%2330DayChartChallenge/Week%201%20-%20Comparisons.md) 
 * Distributions → [zobacz wizualizacje](https://github.com/ElaWajdzik/Ongoing_Projects/blob/main/%2330DayChartChallenge/Week%202%20-%20Distributions.md)
-* Relationships
+* Relationships → [zobacz wizualizacje](https://github.com/ElaWajdzik/Ongoing_Projects/blob/main/%2330DayChartChallenge/Week%203%20-%20Relationships.md)
 * Timeseries
 * Uncertainties
 
