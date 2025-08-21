@@ -5,7 +5,8 @@
 | Relationships                          |         |          | 
 |---------------------------------------|---------|----------|
 | [13. clusters <br> <img src="assets/13 - clusters - PKB vs długość życia.png" width="200">](#13-clusters---publikacja-na-linkedin)  | [14. Kinship <br> <img src="assets/14 - kinship - Tytuły zawodowe.png" width="300">](#14-kinship---publikacja-na-linkedin) | [15. Complicated <br> <img src="assets/15 - complicated - budżet państwa 2024.png" width="250">](#15-complicated---publikacja-na-linkedin) |
-|[16. Negative <br> ](#16-negative---publikacja-na-linkedin)| [17. Birds <br>](#17-birds---publikacja-na-linkedin) | [18. El País (theme day) <br>](#18-el-país-theme-day---publikacja-na-linkedin) |
+|[16. Negative <br> <img src="assets/16 - negative - brak oddziałów położniczych.png" width="300">](#16-negative---publikacja-na-linkedin)| [17. Birds <br>](#17-birds---publikacja-na-linkedin) | [18. El País (theme day) <br>](#18-el-país-theme-day---publikacja-na-linkedin) |
+
 
 <br>
 
