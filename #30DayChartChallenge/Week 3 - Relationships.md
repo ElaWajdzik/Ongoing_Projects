@@ -98,9 +98,26 @@ Typ wizualizacji: Sankey
 
 <img src="assets/15 - complicated - budżet państwa 2024.png" width="500">
 
-### 16. Negative - [publikacja na LinkedIn]()
+### 16. Negative - [publikacja na LinkedIn](https://www.linkedin.com/posts/elawajdzik_30daychartchallenge-activity-7363563357531963392-Kl-e)
 
-...
+Czy uważasz, że mniejsza liczba oddziałów położniczych wpływa na spadek liczby urodzeń?
+
+To, że w Polsce (i w wielu krajach Europy) rodzi się coraz mniej dzieci - wiemy wszyscy. Mniej powszechna jest jednak wiedza o tym, jak bardzo w ostatnich latach spadła dostępność oddziałów położniczych.
+
+📌 Czy zamykanie kolejnych porodówek przyczynia się do spadku liczby narodzin? A może to naturalny skutek niżu demograficznego i wyboru większych placówek, głównie w miastach wojewódzkich?
+
+Patrząc na dane z ostatnich 15 lat:
+* liczba porodów spadła o połowę (z 34 tys. do 18,4 tys. miesięcznie),
+* liczba oddziałów położniczych zmniejszyła się o 102,
+* liczba miast z oddziałem położniczym spadła o 91.
+
+Według mnie sytuacja jest trudna i będzie jeszcze trudniejsza. Ważne pytanie na dziś: czy centralizacja porodów to krok w dobrą stronę?
+
+Narzędzia: Flourish, Canva
+
+Typ wizualizacji: kartogram
+
+<img src="assets/16 - negative - brak oddziałów położniczych.png" width="500">
 
 ### 17. Birds - [publikacja na LinkedIn]()
 
