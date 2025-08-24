@@ -119,6 +119,10 @@ Typ wizualizacji: kartogram
 
 <img src="assets/16 - negative - brak oddziałów położniczych.png" width="500">
 
+Kontynuacja tematu.
+
+<img src="assets/16 - negative - spadek liczby oddziałów położniczych.png" width="500">
+
 ### 17. Birds - [publikacja na LinkedIn]()
 
 ...
