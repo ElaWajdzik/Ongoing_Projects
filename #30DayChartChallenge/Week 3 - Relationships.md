@@ -121,6 +121,8 @@ Typ wizualizacji: kartogram
 
 Kontynuacja tematu.
 
+W ostatnich 15 latach zostało zamknięte, aż 102 oddziały położynicze. Przyglądając się bliżej danym w ujęciu czasowym, możemy zobaczyć jak mocno pandemia odcisneła swoje piętno. W 2020 zastało zamknietych aż 41 oddziałów położniczych w całej Polsce, z czego aż 22 w paździeniku a 17 w marcu (miesiące największych lockdawnów). 
+
 <img src="assets/16 - negative - spadek liczby oddziałów położniczych.png" width="500">
 
 ### 17. Birds - [publikacja na LinkedIn]()
