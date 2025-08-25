@@ -119,9 +119,9 @@ Typ wizualizacji: kartogram
 
 <img src="assets/16 - negative - brak oddziałów położniczych.png" width="500">
 
-Kontynuacja tematu.
 
-W ostatnich 15 latach zostało zamknięte, aż 102 oddziały położynicze. Przyglądając się bliżej danym w ujęciu czasowym, możemy zobaczyć jak mocno pandemia odcisneła swoje piętno. W 2020 zastało zamknietych aż 41 oddziałów położniczych w całej Polsce, z czego aż 22 w paździeniku a 17 w marcu (miesiące największych lockdawnów). 
+W ostatnich 15 latach zostało zamknięte, aż 102 oddziały położynicze. Przyglądając się bliżej danym w ujęciu czasowym, możemy zobaczyć jak mocno pandemia odcisneła swoje piętno. W 2020 zastało zamknietych aż 41 oddziałów położniczych w całej Polsce, z czego aż 22 w paździeniku i 17 w marcu (miesiące największych lockdawnów). Dane z 2024 roku (czyli 22 zamknięte oddziały) niejako sugerują, że dynamika zmian mogł przyśpieszyć. Co czeka nas w 2025 roku? Aktualnie dane wskazują że porody i oddziły położnicze zostały mocno zcentralizowane. 
+
 
 <img src="assets/16 - negative - spadek liczby oddziałów położniczych.png" width="500">
 
