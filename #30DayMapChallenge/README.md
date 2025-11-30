@@ -14,8 +14,8 @@ Format, narzędzia i źródła danych są całkowicie dowolne, co daje dużą sw
 
 |                           |         |          | 
 |---------------------------------------|---------|----------|
-| 01. Points <br> <img src="assets/D01 - elektrownie jadrowe.png" width="300">  | 01. Points <br> <img src="assets/D01 - elektrownie jadrowe.png" width="300">  | 01. Points <br> <img src="assets/D01 - elektrownie jadrowe.png" width="300">  |
-| 01. Points <br> <img src="assets/D01 - elektrownie jadrowe.png" width="300">  | 01. Points <br> <img src="assets/D01 - elektrownie jadrowe.png" width="300">  |  |
+| 01. Points <br> <img src="assets/D01 - elektrownie jadrowe.png" width="300">  | 02. Lines <br> <img src="assets/D01 - elektrownie jadrowe.png" width="300">  | 03. Polygons <br> <img src="assets/D01 - elektrownie jadrowe.png" width="300">  |
+| 04. My Data <br> <img src="assets/D01 - elektrownie jadrowe.png" width="300">  | 05. Earth <br> <img src="assets/D01 - elektrownie jadrowe.png" width="300">  |  |
 
 
 <br>
