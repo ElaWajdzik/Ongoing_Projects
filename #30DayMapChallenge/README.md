@@ -10,3 +10,12 @@ Format, narzędzia i źródła danych są całkowicie dowolne, co daje dużą sw
 <img src="assets/prompts.png" width="600">
 
 <br>
+<br>
+
+|                           |         |          | 
+|---------------------------------------|---------|----------|
+| 01. Points <br> <img src="assets/D01 - elektrownie jadrowe.png" width="300">  | 01. Points <br> <img src="assets/D01 - elektrownie jadrowe.png" width="300">  | 01. Points <br> <img src="assets/D01 - elektrownie jadrowe.png" width="300">  |
+| 01. Points <br> <img src="assets/D01 - elektrownie jadrowe.png" width="300">  | 01. Points <br> <img src="assets/D01 - elektrownie jadrowe.png" width="300">  |  |
+
+
+<br>
