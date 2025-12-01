@@ -14,7 +14,7 @@ Format, narzędzia i źródła danych są całkowicie dowolne, co daje dużą sw
 
 |                           |         |          | 
 |---------------------------------------|---------|----------|
-| 01. Points <br> <img src="assets/D01 - elektrownie jadrowe.png" width="300">  | 02. Lines <br> <img src="assets/D02 - submarine cables.png" width="300">  | 03. Polygons <br> <img src="assets/D03 - zielona energia w Europie.gif" width="300">  |
+| 01. Points <br> <img src="assets/D01 - elektrownie jadrowe.png" width="300"> <br> [zobacz więcej ➝](https://www.linkedin.com/posts/elawajdzik_30daymapchallenge-30daymapchallenge-activity-7391487318194319360-qIyR) | 02. Lines <br> <img src="assets/D02 - submarine cables.png" width="300"> <br> [zobacz więcej ➝](https://www.linkedin.com/posts/elawajdzik_30daymapchallenge-30daymapchallenge-activity-7391857436011249664-jGql) | 03. Polygons <br> <img src="assets/D03 - zielona energia w Europie.gif" width="300"> <br> [zobacz więcej ➝](https://www.linkedin.com/posts/elawajdzik_30daymapchallenge-30daymapchallenge-activity-7392484460694224896-Z3Od) |
 | 04. My Data <br> <img src="assets/D04 - dział zagraniczny.png" width="300">  | 05. Earth <br> <img src="assets/D05 - metale ciezkie w glebie.png" width="300">  |  |
 
 
